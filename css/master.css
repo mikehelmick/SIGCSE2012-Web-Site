@@ -1,0 +1,257 @@
+body {
+	color: #000000;
+	background: #333333;
+	margin: 0;
+	padding: 0;
+	font: normal 13px/1.5em "Helvetica Neue", "Lucida Grande", "Helvetica Neue", Arial, sans-serif;
+	min-width: 1000px;
+}
+
+div#wrapper {
+	min-width:900px;
+	margin:0px auto;
+	padding:0;
+}
+
+a:visited a:link a:active {
+  color: #000000;
+  text-decoration: underline;
+}
+
+a:hover {
+	color: #FF0000;
+}
+
+.clear:after {
+    content: "."; 
+    display: block; 
+    height: 0; 
+    clear: both; 
+    visibility: hidden;
+}
+
+div#headercontainer {
+	width: auto;
+	margin: 0 auto;
+	padding: 0 10px 0 0;	
+	border-bottom: 2px solid #645833;
+	background: #111111;
+	background-image:url('/sigcse2012/images/cubes.png');
+	background-repeat:repeat-x;
+	color: #ffffff;
+	display: block;
+	height: 25px;
+}
+
+div#headercontainer a {
+	color: #ffffff;
+}
+
+div#headertitle {
+	float: left;
+	width: 50%;
+	margin-top: 5px;
+	margin-left: 25px;
+}
+
+div#headertitle h1 {
+	color: #ffffff;
+	margin: 0 0 0 30px;
+}
+
+div#headerright {
+	float:right;
+	padding:0px 25px 0 0;
+}
+
+div#headerright h1 {
+	font: bold 16px/0em "Helvetica Neue", "Lucida Grande", "Helvetica Neue", Arial, sans-serif;
+}
+
+div#contentcontainer {
+	clear: both;
+	width: 100%;
+}
+
+div#navigation {
+  color: #000000;
+  margin: 0px 10px 0 10px;
+  padding: 15px 0 15px 15px;
+  background: #EEEEEE;
+  border: 4px #6EC067 solid;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+
+div#logo {
+  margin: 5px 0 15px 0;
+}
+
+div.column-left {
+  float: left;
+  width: 25%;
+  min-width: 330px;
+}
+
+div#maincontent {
+  color: #000000;
+  margin: 10px 10px 0 10px;
+  padding: 15px 15px 15px 15px;
+  background: #EEEEEE;
+  border: 4px #ED8002 solid;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px; 
+  
+  overflow: auto;
+}
+
+div.column-right {
+  margin: 10px 0 0 28%;
+}
+
+div.GoodMessage {
+	background-color: #E2F9E3;
+	border: 2px solid #00FF33;
+	border-left: none;
+	border-right: none;
+	padding: 2px 20px 2px 10px;
+	margin: 10px 0px 10px 0px;
+	color: #000;
+}
+
+.menu {
+  color: #ffffff;
+  font-size: 12pt;
+}
+
+.selected {
+  background-color: #00AEEF;
+  padding: 2px 2px 2px 2px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  cursor: pointer; 
+}
+
+.submenu {
+  border-left: 2px #ff0000 solid;
+  padding-left: 1px;
+}
+
+.submenu ul {
+  margin: 0px 0px 0px 20px;
+  padding: 0;
+}
+
+.submenu li {
+  margin: 0px;
+  padding: 0 0 0 1px;
+  list-style-image: url(/sigcse2012/images/bullet_red.png);
+}
+
+.menu a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.menu a:hover {
+  color: #EE0000;
+  text-decoration: underline;
+}
+
+.submenu a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.submenu a:hover {
+  color: #EE0000;
+  text-decoration: underline;
+}
+
+
+div#footercontainer {
+  clear: both;
+  width: auto;
+  margin: 25px auto;
+  padding: 0 1% 0 1%;	
+  display: block;
+  text-align: center;
+
+  overflow: hidden;
+}
+
+div#footer {
+  color: #000000;
+  margin: 25px 50px 25px 50px;
+  padding: 15px 0 15px 15px;
+  background: #EEEEEE;
+  border: 4px #645833 solid;
+
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;	
+}
+
+.SectionHeader {
+	margin: 5px 0 0px 0;
+	border-bottom: 1px solid #000000;
+	padding-bottom: 5px;
+}
+
+.SectionHeader h2 {
+	margin: 0 0 0 0;
+}
+
+.SectionHeader .Full {
+	text-align: center;
+}
+
+/* fade table */
+
+.FadeTable {
+	margin: 5px 0 5px 0;
+	border: none;
+	width: 100%;
+	border-left: 1px solid #1463B4;
+}
+
+.FadeTable tr.header {
+	background-color: #d9d9d9;
+}
+
+.FadeTable th {
+	padding: 5px 0 5px 5px;
+	text-align: left;
+	font-weight: normal;
+}
+
+.FadeTable th.full {
+	text-align: center;
+}
+
+.FadeTable tr.row1 {
+	background-color: #e4e4e4;
+}
+
+.FadeTable tr.row2 {
+	background-color: #e4e4e4;
+}
+
+.FadeTable tr.row3 {
+	background-color: #e4e4e4;
+}
+
+.FadeTable tr.row4 {
+	background-color: #f3f3f3;
+}
+
+.FadeTable tr.row5 {
+	background-color: #f3f3f3;
+}
+
+.FadeTable td {
+	padding: 4px 5px 4px 5px
+}
