@@ -37,7 +37,7 @@ div#headercontainer {
 	border-bottom: 2px solid #645833;
 	background: #111111;
 	background-image:url('/sigcse2012/images/cubes.png');
-	background-repeat:repeat-x;
+	background-repeat:no-repeat;
 	color: #ffffff;
 	display: block;
 	height: 25px;
