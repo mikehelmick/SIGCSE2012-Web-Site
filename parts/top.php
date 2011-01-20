@@ -1,3 +1,10 @@
+<?php header('Content-type: text/html; charset=utf-8'); ?>
+<?php 
+// Global configuration
+$submissionReady = false;
+$abstractCharLimit = "800 characters";
+
+?>
 <!DOCTYPE html 
      PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -49,6 +56,10 @@
 		<div id="authors_sub" class="submenu" style="display: none">
 		  <ul>
 			<li><a id="cfp_menu" href="/sigcse2012/authors/index.php">Call for Participation</a></li>
+			<li><a id="papers_menu" href="/sigcse2012/authors/papers.php">Papers</a></li>
+			<li><a id="bof_menu" href="/sigcse2012/authors/bof.php">Birds of a Feather (BoF)</a></li>
+			<li>--</li>
+			<li><a id="createPdf_menu" href="/sigcse2012/authors/creating_pdf.php">Creating PDFs</a></li>
 		  </ul>
 		</div>		
 		<div class="menu"><a id="reviewers_menu" onclick="toggle_menu('reviewers');">Reviewers<img id="reviewers_status" src="/sigcse2012/images/arrow_down.png" align="absmiddle"></a></div>

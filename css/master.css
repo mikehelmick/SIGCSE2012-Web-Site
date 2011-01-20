@@ -121,6 +121,49 @@ div.GoodMessage {
 	color: #000;
 }
 
+.GoodMessage {
+	background-color: #E2F9E3;
+	border: 2px solid #00FF33;
+	border-left: none;
+	border-right: none;
+	padding: 2px 20px 2px 10px;
+	margin: 10px 0px 10px 0px;
+	color: #000;
+}
+
+.Alert {
+	border: 2px solid #ff0000;
+	padding: 7px;
+	padding-bottom: 12px;
+	margin-bottom: 20px;
+	background-color: #fcf0f0;
+}
+
+.Alert h2 {
+	text-align: left;
+	font-weight: bold;
+	padding: 5px 5px 5px 27px;
+	font-size: 12px;
+	margin: -7px;
+	background: #cc0000;
+	color: #ffffff;
+}
+
+.Alert p {
+	color: #333;
+	margin-bottom: 0;
+	padding: 5px;
+}
+
+.Alert ul {
+	margin-left: 30px;
+}
+
+.Alert ul li {
+	font-size: 12px;
+	list-style: square;
+}
+
 .menu {
   color: #ffffff;
   font-size: 12pt;
@@ -255,3 +298,114 @@ div#footer {
 .FadeTable td {
 	padding: 4px 5px 4px 5px
 }
+
+blockquote {
+  padding: 10px 10px 10px 10px;
+  border: 1px dashed #444444;
+}
+
+.fancy {
+	border: 1px solid #666666;
+}
+
+.fancy .cell {
+	border-left: 1px solid #1463B4;
+	padding-left: 2px;
+	padding-right: 2px;
+	text-align: right;
+}
+
+.fancy .summaryCell {
+	border-top: 1px dashed #1463B4;
+	border-left: 1px solid #1463B4;
+	padding-left: 2px;
+	text-align: right;
+}
+
+.fancy tr.hover:hover
+{
+	background: #bfd5ff;
+}
+
+.fancy tr.fheader a
+{
+	color: #000000;
+	font-weight: normal;
+}
+
+.fancy tr.fheader a:hover
+{
+	color: #000000;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.fancy td.selected {
+	background-color: #3d80df;
+	border-left: 1px solid #346DBE;
+	border-bottom: 1px solid #7DAAEA;
+}
+
+.fancy td.selected a {
+	color: #ffffff;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.fancy td.selected a:hover {
+	color: #ffffff;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.fancy a:visited {
+	color: #000000;
+}
+
+.fancy tr.odd
+{
+	background-color: #edf3fe;
+}
+
+.fancy tr.even
+{
+	background-color: #fff;
+}
+
+.fancy td.outline {
+  border: 1px solid black; padding: 4px;
+}
+
+.fancy td.total 
+{
+	border-top: 1px dashed #666666;
+}
+
+.fancy tbody tr td {
+	font-family: "lucida grande", verdana, sans-serif;
+	font-size: 9pt;
+	padding: 3px 8px;
+	border-left: 1px solid #D9D9D9;
+}
+
+.fancy .codeB {
+	font-family: "courier", verdana, sans-serif;
+	font-size: 9pt;
+	background: #A4B7C8;
+	border: 1px solid #FE6600;
+}
+
+.fancy .codeA {
+	font-family: "courier", verdana, sans-serif;
+	font-size: 9pt;
+	background: #EEEEEE;
+	border: 1px solid #84CA82;
+}
+
+.fancy .codeC {
+	font-family: "courier", verdana, sans-serif;
+	font-size: 9pt;
+	background: #A4B7C8;
+	border: 1px solid #EE2022;
+}
+
