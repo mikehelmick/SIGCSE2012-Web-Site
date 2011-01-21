@@ -57,6 +57,11 @@ $abstractCharLimit = "800 characters";
 		  <ul>
 			<li><a id="cfp_menu" href="/sigcse2012/authors/index.php">Call for Participation</a></li>
 			<li><a id="papers_menu" href="/sigcse2012/authors/papers.php">Papers</a></li>
+			<li><a id="panels_menu" href="/sigcse2012/authors/panels.php">Panels</a></li>
+			<li><a id="special_sessions_menu" href="/sigcse2012/authors/special_sessions.php">Special Sessions</a></li>
+			<li><a id="student_research_menu" href="/sigcse2012/authors/student_research.php">Student Research Competition</a></li>
+			<li><a id="workshops_menu" href="/sigcse2012/authors/workshops.php">Workshops</a></li>
+			<li><a id="posters_menu" href="/sigcse2012/authors/posters.php">Posters</a></li>
 			<li><a id="bof_menu" href="/sigcse2012/authors/bof.php">Birds of a Feather (BoF)</a></li>
 			<li>--</li>
 			<li><a id="createPdf_menu" href="/sigcse2012/authors/creating_pdf.php">Creating PDFs</a></li>
@@ -114,6 +119,7 @@ $abstractCharLimit = "800 characters";
   </div>
 </form>
 <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&lang=en"></script>
+
 	</div>
 	
 	<div id="maincontent" class="column-right">

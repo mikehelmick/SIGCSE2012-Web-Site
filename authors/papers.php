@@ -160,9 +160,9 @@
  <li> Convert your paper into Adobe PDF format. Refer to our <a href="creating_pdf.php">Creating Adobe PDF Documents page</a> for assistance.</li>
  <li> Submit both versions using the
 <?php if ($submissionReady) {
- echo '<a href="http://www.cs.grinnell.edu/~sigcse/sigcse2012/submission.shtml">online Paper Submission Form</a>';
+ echo '<a href="http://www.cs.grinnell.edu/~sigcse/sigcse2012/submission.shtml">online paper submission Form</a>';
 } else {
- echo "<em>online Paper Submission Form (coming soon)</em>";
+ echo "<em>online paper submission Form (coming soon)</em>";
 } 
 ?>. Note that there are several ways you must categorize your paper submission in the online system. The broad classification you choose allows the reviewer to evaluate the paper from an appropriate perspective. The course and general topic categories you choose are used to select the reviewers who will evaluate your paper. To increase the likelihood that your paper will be given to a reviewer who is familiar with the content of your paper, choose one broad classification and at most three course-related and/or general topic areas that best fit your paper. <strong>Selection of more than four content categories may result in automatic rejection of your paper.</strong></li>
  <li>Please do not wait until the last minute to submit your documents, because that is when everyone else will be connecting to our server!</li>
