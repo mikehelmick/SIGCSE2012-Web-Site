@@ -19,7 +19,7 @@
   </ul>
   </td>
   <td width="50%" align="center" valign="top">
-    <div id="GoodMessage">
+    <div class="GoodMessage">
       <h2><a name="kind">Important Dates for Poster Authors</a></h2>
       <table>
        <tr><td align="left" valign="top">Submission Deadline:</td><td align="left" nowrap="nowrap">TBD</td></tr>

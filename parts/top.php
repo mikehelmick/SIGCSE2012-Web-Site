@@ -70,11 +70,26 @@ $abstractCharLimit = "800 characters";
 			<li><a id="createPdf_menu" href="/sigcse2012/authors/creating_pdf.php">Creating PDFs</a></li>
 			<li><a href="/sigcse2012/faq/submissions_faq.php">Authors FAQs</a></li>
 		  </ul>
+		</div>
+		<div class="menu"><a id="attendees_menu" onclick="toggle_menu('attendees');">Attendees<img id="attendees_status" src="/sigcse2012/images/arrow_down.png" align="absmiddle"></a></div>
+		<div id="attendees_sub" class="submenu" style="display: none">
+		  <ul>
+			<li><em>Coming soon...</em></li>
+		  </ul>
 		</div>		
 		<div class="menu"><a id="reviewers_menu" onclick="toggle_menu('reviewers');">Reviewers<img id="reviewers_status" src="/sigcse2012/images/arrow_down.png" align="absmiddle"></a></div>
 		<div id="reviewers_sub" class="submenu" style="display: none">
 		  <ul>
-			<li><em>Coming soon...</em></li>
+			<li><a id="reviewerInformation_menu" href="/sigcse2012/reviewers/index.php">Reviewer Information</a></li>
+			<li><a id="revGuidePapers_menu" href="/sigcse2012/reviewers/guide_papers.php">Paper Review Guide</a></li>
+			<li><a id="revGuidePanels_menu" href="/sigcse2012/reviewers/guide_panels.php">Panel Review Guide</a></li>
+			<li><a id="revGuideSpecialSessions_menu" href="/sigcse2012/reviewers/guide_sessions.php">Special Session Review Guide</a></li>
+			<li><a id="revGuideWorkshops_menu" href="/sigcse2012/reviewers/guide_workshops.php">Workshop Review Guide</a></li>
+			<li><a id="revGuideBOFs_menu" href="/sigcse2012/reviewers/guide_bofs.php">Birds of a Feathers (BOFs) Review Guide</a></li>
+			<li><a id="revGuidePosters_menu" href="/sigcse2012/reviewers/guide_posters.php">Poster Review Guide</a></li>
+			<li>--</li>
+			<li><a id="metareviews_menu" href="/sigcse2012/reviewers/metareviews.php">Meta-reviews</a></li>
+			<li><a href="/sigcse2012/faq/reviewers_faq.php">Reviewers FAQs</a></li>
 		  </ul>
 		</div>
 		<div class="menu"><a id="students_menu" onclick="toggle_menu('students');">Students<img id="students_status" src="/sigcse2012/images/arrow_down.png" align="absmiddle"></a></div>
