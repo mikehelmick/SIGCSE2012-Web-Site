@@ -4,7 +4,7 @@
  include("../parts/top.php");
 ?>
 <h1>Poster Submission Guidelines</h1>             
- <div class="errorExplanation">By SIGCSE policy, at least one author of each accepted poster is required to register for the conference, and to present the poster during the assigned poster session.</div> 
+ <div class="Alert">By SIGCSE policy, at least one author of each accepted poster is required to register for the conference, and to present the poster during the assigned poster session.</div> 
              
 <table width="99%">
  <tr>

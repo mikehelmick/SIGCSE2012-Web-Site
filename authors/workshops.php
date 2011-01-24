@@ -4,7 +4,7 @@
  include("../parts/top.php");
 ?>
 <h1>Workshop Submission Guidelines</h1>             
-<div class="errorExplanation">By SIGCSE policy, all workshop presenters are required to register for the conference, and to attend and lead their workshops.</div> 
+<div class="Alert">By SIGCSE policy, all workshop presenters are required to register for the conference, and to attend and lead their workshops.</div> 
              
 <table width="99%">
  <tr>

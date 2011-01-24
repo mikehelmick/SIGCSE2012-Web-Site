@@ -4,7 +4,7 @@
  include("../parts/top.php");
 ?>
 <h1>Paper Submission Guidelines</h1>
-<div class="errorExplanation">By SIGCSE policy, at least one author of each accepted paper is required to register, attend and present the paper.</div>             
+<div class="Alert">By SIGCSE policy, at least one author of each accepted paper is required to register, attend and present the paper.</div>             
              
 <table width="99%">
  <tr>
@@ -196,7 +196,7 @@ send an email to <script>write_email("sigcse12-program", "cs.holycross.edu");</s
 <h2><a name="presentation">Questions</a></h2>
 </div></div>   
 
-<p>If you have questions about paper submissions, please contact SIGCSE 2012 Program Chairs: <script>write_email( "sigcse12-program", "cs.holycross.edu" );</script>
+<p>If you have questions about paper submissions, please contact SIGCSE 2012 Program Chairs: <script>write_email( "sigcse12-program", "cs.holycross.edu" );</script><br/>
 Tracy Camp<br/>
 Colorado School of Mines<br/>
 &nbsp;<br/>

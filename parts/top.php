@@ -64,7 +64,11 @@ $abstractCharLimit = "800 characters";
 			<li><a id="posters_menu" href="/sigcse2012/authors/posters.php">Posters</a></li>
 			<li><a id="bof_menu" href="/sigcse2012/authors/bof.php">Birds of a Feather (BoF)</a></li>
 			<li>--</li>
+			<li><a id="finalSubmission_menu" href="/sigcse2012/authors/final_submission.php">Final Submission Instructions</a></li>
+			<li><a id="formatting_menu" href="/sigcse2012/authors/format.php">Formatting / Publication Guidelines</a></li>
+			<li><a id="noshow_menu" href="/sigcse2012/authors/noshow.php">Presenter No-Show Policy</a></li>
 			<li><a id="createPdf_menu" href="/sigcse2012/authors/creating_pdf.php">Creating PDFs</a></li>
+			<li><a href="/sigcse2012/faq/submissions_faq.php">Authors FAQs</a></li>
 		  </ul>
 		</div>		
 		<div class="menu"><a id="reviewers_menu" onclick="toggle_menu('reviewers');">Reviewers<img id="reviewers_status" src="/sigcse2012/images/arrow_down.png" align="absmiddle"></a></div>
@@ -88,16 +92,13 @@ $abstractCharLimit = "800 characters";
 		<div class="menu"><a id="faq_menu" onclick="toggle_menu('faq');">FAQ<img id="faq_status" src="/sigcse2012/images/arrow_down.png" align="absmiddle"></a></div>
 		<div id="faq_sub" class="submenu" style="display: none">
 		  <ul>
-			<li><em>Coming soon...</em></li>
+           <li><a id="submissionsFAQ_menu" href="/sigcse2012/faq/submissions_faq.php">Submissions FAQ</a></li>
+           <li><a id="reviewersFAQ_menu" href="/sigcse2012/faq/reviewers_faq.php">Reviewers FAQ</a></li>
+           <li><a id="attendeesFAQ_menu" href="/sigcse2012/faq/attendees_faq.php">Attendees FAQ</a></li>
+           <li><a id="studentsFAQ_menu" href="/sigcse2012/faq/students_faq.php">Students FAQ</a></li>
 		  </ul>
 		</div>
-		<div class="menu"><a id="committee_menu" onclick="toggle_menu('committee');">Committee<img id="committee_status" src="/sigcse2012/images/arrow_down.png" align="absmiddle"></a></div>
-		<div id="committee_sub" class="submenu" style="display: none">
-		  <ul>
-			<li><em>Coming soon...</em></li>
-		  </ul>
-		</div>
-
+		<div class="menu"><a id="committee_menu" href="/sigcse2012/committee/">Program Committee</a></div>
 <hr/>
 <script type="text/javascript" src="http://www.google.com/jsapi"></script>
 <script type="text/javascript">

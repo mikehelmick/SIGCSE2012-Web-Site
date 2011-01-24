@@ -5,7 +5,7 @@
 ?>
 
 <h1>Special Session Submission Guidelines</h1>             
- <div class="errorExplanation">By SIGCSE policy, all special session presenters are required to register for the conference, and to attend and participate in their special session.</div> 
+ <div class="Alert">By SIGCSE policy, all special session presenters are required to register for the conference, and to attend and participate in their special session.</div> 
              
 <table width="99%">
  <tr>
