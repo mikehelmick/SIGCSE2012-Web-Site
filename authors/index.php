@@ -91,7 +91,7 @@ Wright State University<br/>
 </td><td align="left" valign="top">
 
 <p><b>Posters</b><br/>
-Kris Nagle<br/>
+Kris Nagel<br/>
 Georgia Gwinnett College<br/>
 <script>write_email("sigcse12-posters", "cs.holycross.edu");</script></p>
 

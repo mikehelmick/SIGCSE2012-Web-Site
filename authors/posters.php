@@ -109,7 +109,7 @@
 <h2><a name="presentation">Questions</a></h2>
 </div></div>   
 <p>If you have questions about poster submissions, please contact SIGCSE 2012 poster chair:<br/>
-Kris Nagle<br/> Georgia Gwinnett College<br/> <script>write_email("sigcse12-posters", "cs.holycross.edu");</script></p>
+Kris Nagel<br/> Georgia Gwinnett College<br/> <script>write_email("sigcse12-posters", "cs.holycross.edu");</script></p>
 
 <?php
  $updated = filemtime( $_SERVER["SCRIPT_FILENAME"] );

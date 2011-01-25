@@ -53,7 +53,7 @@
 <div class="SectionHeader"><div class="Full">
 <h2><a name="presentation">Questions</a></h2>
 </div></div>   
-<p>If you have questions, please contact<br/>Kris Nagle<br/>Georgia Gwinnett College<br/>
+<p>If you have questions, please contact<br/>Kris Nagel<br/>Georgia Gwinnett College<br/>
 <script>write_email("sigcse12-posters", "cs.holycross.edu");</script></p>
 
 <?php

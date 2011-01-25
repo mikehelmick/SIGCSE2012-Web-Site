@@ -95,7 +95,6 @@
 <div class="SectionHeader"><div class="Full">
 <h2><a name="questions">Questions</a></h2>
 </div></div>   
-<p>Please contact SIGCSE 2012 Program Chairs: <script>write_email( "sigcse11-program", "cs.cmu.edu" );</script></p>
 
 <p>If you have questions about paper submissions, please contact SIGCSE 2012 Program Chairs: <script>write_email( "sigcse12-program", "cs.holycross.edu" );</script><br/>
 Tracy Camp<br/>

@@ -61,8 +61,6 @@ Responsibility Policy</a>, is "to create a good, well balanced program at the SI
 <h2><a name="questions">Questions</a></h2>
 </div></div>   
 
-<p>Please contact SIGCSE 2012 Program Chairs: <script>write_email( "sigcse11-program", "cs.cmu.edu" );</script></p>
-
 <p>If you have questions about paper submissions, please contact SIGCSE 2012 Program Chairs: <script>write_email( "sigcse12-program", "cs.holycross.edu" );</script><br/>
 Tracy Camp<br/>
 Colorado School of Mines<br/>
@@ -70,12 +68,9 @@ Colorado School of Mines<br/>
 Paul Tymann<br/>
 Rochester Institute of Technology<br/></p>
 
-<?php include("../parts/middle.php"); ?>
-
-<?php include("../parts/reviewers_right.php"); ?>
-
-    
 <?php
-  $updated = filemtime( $_SERVER["SCRIPT_FILENAME"] );
-  include("../parts/footer.php");
- ?>       
+ $updated = filemtime( $_SERVER["SCRIPT_FILENAME"] );
+ $mainPage = false;
+ include("../parts/bottom.php");
+?>
+     
