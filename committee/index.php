@@ -4,7 +4,7 @@
  include("../parts/top.php");
 ?>
 <div class="SectionHeader"><div class="Full">
-<h2>SIGCSE 2010 Program Committee</h2>
+<h2>SIGCSE 2012 Program Committee</h2>
 </div></div>
 <table class="FadeTable" cellspacing="0" cellpadding="0">
   <tr class="header"><td colspan="3" align="center">PROGRAM COMMITTEE</td></tr> 
