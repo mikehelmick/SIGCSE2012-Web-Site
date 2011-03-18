@@ -18,7 +18,7 @@
     <div class="GoodMessage">
       <h2><a name="kind">Important Date for Contest Entries</a></h2>   
       <table>
-       <tr><td align="left" valign="top">Submission Deadline:</td><td align="left">TBD @ 5:00 p.m. EDT<br/>Eastern Daylight Time</td></tr>
+       <tr><td align="left" valign="top">Submission Deadline:</td><td align="left">September 25, 2011 @ 5:00 p.m. EDT<br/>Eastern Daylight Time</td></tr>
        <tr><td align="left">Author Notification:</td><td align="left">TBD</td></tr>
       </table>
     </div>
