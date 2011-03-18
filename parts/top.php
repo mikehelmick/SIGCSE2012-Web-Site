@@ -50,7 +50,7 @@ $abstractCharLimit = "800 characters";
   </div>
   <div id="contentcontainer">
 	<div id="navigation" class="column-left">
-		<div id="logo"></div>
+		<div id="logo"><img src="/sigcse2012/logo/logo.png" alt="SIGCSE 2012 Logo" /></div>
 		
 		<div class="menu"><a id="home_menu" href="/sigcse2012/">SIGCSE | 2012</a></div>
 		<div class="menu"><a id="authors_menu" onclick="toggle_menu('authors');">Authors<img id="authors_status" src="/sigcse2012/images/arrow_down.png" align="absmiddle"></a></div>	

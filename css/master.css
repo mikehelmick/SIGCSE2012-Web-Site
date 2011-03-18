@@ -91,7 +91,7 @@ div#logo {
 div.column-left {
   float: left;
   width: 25%;
-  min-width: 330px;
+  min-width: 350px;
 }
 
 div#maincontent {

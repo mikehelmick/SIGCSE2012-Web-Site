@@ -3,10 +3,6 @@
  $onload = "pageLoad(null, 'exhibitors');";;
  include("../parts/top.php");
 ?>
-<div class="GoodMessage"><a href="/sigcse2012/downloads/sigcse2012_cfp.pdf"><img src="/sigcse2012/images/page_white_acrobat.png" /> Download call for participation as PDF.</a> | 
-<a href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.sigcse.org%2Fsigcse2012%2Fdownloads%2Fsigcse2012_cfp.pdf">View CFP online with Google docs Viewer</a>
-</div>
-
 <div class="SectionHeader"><div class="Full">
 <h2>Exhibitors and Supporters</h2>
 </div></div>   
@@ -17,8 +13,8 @@
 </div></div>  
 
 <ul>
- <li>The <a href="/sigcse2011/exhibitors/downloads/sigcse_ep12.pdf" target="_blank">SIGCSE 2012 Invitation to Exhibit / Conference Support Opportunities</a> document (PDF; opens in new window) provides details on how your organization can connect with our community. </li> 
- <li>Here are two views of the SIGCSE 2008 Exhibit Hall. The 2011 conference is in a different location, but we hope that these views will give you a sense of what the 2011 exhibition space will look like. (Click on each for a larger version.)</li>
+ <li>The <a href="/sigcse2012/exhibitors/downloads/sigcse_ep12.pdf" target="_blank">SIGCSE 2012 Invitation to Exhibit / Conference Support Opportunities</a> document (PDF; opens in new window) provides details on how your organization can connect with our community. </li> 
+ <li>Here are two views of the SIGCSE 2008 Exhibit Hall. The 2012 conference is in a different location, but we hope that these views will give you a sense of what the 2012 exhibition space will look like. (Click on each for a larger version.)</li>
  <table border="0" align="center">
 <tr>
   <td><a href="images/2008Hall01.jpg" rel="lightbox[students]" title="2008 Exhibit Hall"><img src="images/2008Hall01_thumb.jpg" /></a></td>
