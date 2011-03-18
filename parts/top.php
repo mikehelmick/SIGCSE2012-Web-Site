@@ -31,6 +31,7 @@ $abstractCharLimit = "800 characters";
 	<link rel='stylesheet' type='text/css' href='/sigcse2012/css/$style' title='Current'>
    ";
  ?>
+ <link rel="stylesheet" href="/sigcse2011/css/lightbox.css" type="text/css" media="screen" />
 </head>
 <?php
  if ($onload == null)
@@ -98,12 +99,7 @@ $abstractCharLimit = "800 characters";
 			<li><em>Coming soon...</em></li>
 		  </ul>
 		</div>
-		<div class="menu"><a id="exhibitors_menu" onclick="toggle_menu('exhibitors');">Exhibitors/Supporters<img id="exhibitors_status" src="/sigcse2012/images/arrow_down.png" align="absmiddle"></a></div>
-		<div id="exhibitors_sub" class="submenu" style="display: none">
-		  <ul>
-			<li><em>Coming soon...</em></li>
-		  </ul>
-		</div>
+		<div class="menu"><a id="exhibitors_menu" href="/sigcse2012/exhibitors/">Exhibitors/Supporters</a></div>
 		<div class="menu"><a id="faq_menu" onclick="toggle_menu('faq');">FAQ<img id="faq_status" src="/sigcse2012/images/arrow_down.png" align="absmiddle"></a></div>
 		<div id="faq_sub" class="submenu" style="display: none">
 		  <ul>
