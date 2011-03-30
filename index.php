@@ -11,12 +11,6 @@
 <h2>Call for participation</h2>
 <p><a href="/sigcse2012/authors/index.php">View the SIGCSE 2012 call for participation.</a></p>
 
-<h2>Presenting the SIGCSE 2012 Logo</h2>
-<p>Thanks for voting during SIGCSE 2011, here is the logo that was selected:</p>
-<table width="100%">
-<tr><td align="center"><img src="/sigcse2012/logo/logo.png" /></td></tr>
-</td></tr></table>
-
 <?php
  $updated = filemtime( $_SERVER["SCRIPT_FILENAME"] );
  $mainPage = true;
