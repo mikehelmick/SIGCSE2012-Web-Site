@@ -22,16 +22,16 @@
       <h2><a name="kind">Important Dates for BOF Submissions</a></h2>   
       <table>
        <tr>
-        <td align="left">Submission Deadline:</td><td align="left" nowrap="nowrap">TBD</td>
+        <td align="left">Submission Deadline:</td><td align="left" nowrap="nowrap">October 24, 2011</td>
        </tr>
        <tr><td align="right" colspan="2">
 @11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td>
        </tr>
        <tr>
-  	    <td align="left">Acceptance Notification:</td><td align="left" nowrap="nowrap">TBD</td>
+  	    <td align="left">Acceptance Notification:</td><td align="left" nowrap="nowrap">November 14, 2011</td>
        </tr>
        <tr>
- 	    <td align="left">Updates to BOF Title, Proposer &amp; Abstract:</td><td align="left">TBD</td>
+ 	    <td align="left">Updates to BOF Title, Proposer &amp; Abstract:</td><td align="left">November 28, 2011</td>
        </tr>
       </table>
     </div>

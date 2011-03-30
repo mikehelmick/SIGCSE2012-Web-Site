@@ -22,10 +22,10 @@
     <div class="GoodMessage">
       <h2><a name="kind">Important Dates for Poster Authors</a></h2>
       <table>
-       <tr><td align="left" valign="top">Submission Deadline:</td><td align="left" nowrap="nowrap">TBD</td></tr>
+       <tr><td align="left" valign="top">Submission Deadline:</td><td align="left" nowrap="nowrap">October 24, 2011</td></tr>
        <tr><td align="right" colspan="2">@11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td></tr>
-       <tr><td align="left">Author Notification:</td><td align="left" nowrap="nowrap">TBD</td></tr>
-       <tr><td align="left">Updates to Titles, Authors, &amp; Abstracts Due:</td><td align="left">TBD</td></tr>
+       <tr><td align="left">Author Notification:</td><td align="left" nowrap="nowrap">November 14, 2011</td></tr>
+       <tr><td align="left">Updates to Titles, Authors, &amp; Abstracts Due:</td><td align="left">November 28, 2011</td></tr>
       </table>
     </div>
   </td>              
