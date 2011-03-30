@@ -64,7 +64,9 @@ $abstractCharLimit = "800 characters";
 			<li><a id="workshops_menu" href="/sigcse2012/authors/workshops.php">Workshops</a></li>
 			<li><a id="posters_menu" href="/sigcse2012/authors/posters.php">Posters</a></li>
 			<li><a id="bof_menu" href="/sigcse2012/authors/bof.php">Birds of a Feather (BoF)</a></li>
-			<li>--</li>
+		  </ul>
+		  <hr/>
+		  <ul>	
 			<li><a id="finalSubmission_menu" href="/sigcse2012/authors/final_submission.php">Final Submission Instructions</a></li>
 			<li><a id="formatting_menu" href="/sigcse2012/authors/format.php">Formatting / Publication Guidelines</a></li>
 			<li><a id="noshow_menu" href="/sigcse2012/authors/noshow.php">Presenter No-Show Policy</a></li>
