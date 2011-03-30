@@ -76,7 +76,7 @@
   </ol>
  </li><br/>
  <li><strong>Poster Abstract (limited to <?php echo $abstractCharLimit; ?>, including whitespace)</strong>
-  <p style="font-size: 1.0em">The abstract is the description of the poster that will appear on the conference web pages.  The description is limited to <?php echo $abstractCharLimit; ?> (including whitespace) and must match verbatim the abstract section of the Poster Proposal.  The poster abstract must be submitted in plain text. The abstract for an accepted proposal may contain a URL with more information.  (Abstracts of accepted posters can be edited in response to reviews.)</p>
+  <p style="font-size: 1.0em">The abstract is the description of the poster that will appear on the conference web pages.  The description is limited to <?php echo $abstractCharLimit; ?> (including whitespace) and must match verbatim the abstract section of the Poster Proposal.  The poster abstract must be submitted in plain text. The abstract for an accepted proposal may contain a URL with more information. Abstracts of accepted posters can be edited in response to reviews. The revised, final abstract will appear on the web pages.</p>
  </li>
 </ol>
 
