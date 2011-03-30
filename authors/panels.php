@@ -21,11 +21,11 @@
     <div class="GoodMessage">
       <h2><a name="kind">Impotant Dates for Panel Submissions</a></h2>  
       <table>
-       <tr><td align="left">Submission Deadline:</td><td align="left" nowrap="nowrap">TBD</td></tr>
+       <tr><td align="left">Submission Deadline:</td><td align="left" nowrap="nowrap">September 2, 2011</td></tr>
        <tr><td align="right" colspan="2">@11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td></tr>
-       <tr><td align="left">Author Notification:</td><td align="left">TBD</td></tr>
-       <tr><td align="left">Updates to Panel Title &amp; Presenters:</td><td align="left">TBD</td></tr>
-       <tr><td align="left">Camera-Ready Copy:</td><td align="left">TBD</td></tr>
+       <tr><td align="left">Author Notification:</td><td align="left" nowrap="nowrap">October 17, 2011</td></tr>
+       <tr><td align="left">Updates to Panel Title &amp; Presenters:</td><td align="left" nowrap="nowrap">Monday, October 31, 2011</td></tr>
+       <tr><td align="left">Camera-Ready Copy:</td><td align="left" nowrap="nowrap">November 28, 2011</td></tr>
       </table>
     </div>
   </td>              
