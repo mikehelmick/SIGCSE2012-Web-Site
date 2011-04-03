@@ -38,6 +38,9 @@ The 43rd ACM Technical Symposium on Computer Science Education</h2>
 <h3>POSTERS</h3>
 <p>Posters describe computer science education materials or research, particularly works in progress. Proposals (including abstract) are limited to two pages. Poster demonstrations are scheduled to permit one-on-one discussion with conference attendees, typically during session breaks. Prepared handouts are encouraged in order to share your work.</p>
 
+<h3>Student Research Competition</h3>
+<p>Research from all areas of computer science is considered for awards in two categories of competition, graduate and undergraduate. All submissions must represent a student's individual research contribution and a student must be an ACM student member to qualify for awards and travel grants.</p>
+
 <table class="FadeTable" cellspacing="0" cellpadding="0">
   <tr class="header"><td colspan="3" align="center">PROGRAM COMMITTEE</td></tr> 
   <tr><td align="left" valign="top">
