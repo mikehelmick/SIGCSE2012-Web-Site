@@ -19,7 +19,7 @@
       <h2><a name="kind">Important Date for Contest Entries</a></h2>   
       <table>
        <tr><td align="left" valign="top">Submission Deadline:</td><td align="left">September 25, 2011 @ 5:00 p.m. EDT<br/>Eastern Daylight Time</td></tr>
-       <tr><td align="left">Author Notification:</td><td align="left">TBD</td></tr>
+       <tr><td align="left">Author Notification:</td><td align="left">Monday, October, 31, 2011</td></tr>
       </table>
     </div>
   </td>              
@@ -52,8 +52,7 @@
 <div class="SectionHeader"><div class="Full">
 <h2><a name="submit">How Do I Submit My Entry? </a></h2>
 </div></div>  
-<p>Submit a plain ASCII-text electronic copy of the extended abstract by <strong class="warning">TBD<br />
-@ 5:00 p.m. EDT (Eastern Daylight Time)</strong> to Dr. Ann Sobel (<script>write_email( "sigcse12-src", "cs.holycross.edu" );</script>).</p>
+<p>Submit a plain ASCII-text electronic copy of the extended abstract by <strong class="warning">September 25, 2011 @ 5:00 p.m. EDT (Eastern Daylight Time)</strong> to Dr. Ann Sobel (<script>write_email( "sigcse12-src", "cs.holycross.edu" );</script>).</p>
 <p>Travel grants of up to $500 may be available for students who do not have another source of funding and are ACM student members.</p>
 
 <div class="SectionHeader"><div class="Full">
