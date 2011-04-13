@@ -102,7 +102,7 @@
 } ?> to review your submission for accuracy.  Send e-mail to <script>write_email( "sigcse12-posters", "cs.holycross.edu" );</script> if there are any problems.</li>
 </ol>
 
-<p><strong><i>Deadline:</i></strong>All electronic submissions must be <strong>received</strong> by <strong class="warning">TBD</strong>.</p>
+<p><strong><i>Deadline:</i></strong>All electronic submissions must be <strong>received</strong> by <strong class="warning">October 24, 2011</strong>.</p>
 
 
 <div class="SectionHeader"><div class="Full">

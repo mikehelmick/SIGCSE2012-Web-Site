@@ -23,18 +23,19 @@
       <h2><a name="kind">Impotant Dates for Paper Authors</a></h2>
 	      <table>
 	       <tr>
-	        <td align="left" valign="top">Submission Deadline:</td><td align="left">TBD</td>
+	        <td align="left" valign="top">Submission Deadline:</td><td align="left" nowrap="nowrap">Friday, September 2, 2011</td>
 	       </tr>
-	       <tr><td align="right" colspan="2">@11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td>
-	       </tr>
-	       <tr>
-	  	    <td align="left">Author Notification:</td><td align="left">TBD</td>
+	       <tr><td align="right" colspan="2">
+	@11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td>
 	       </tr>
 	       <tr>
-	 	    <td align="left">Updates to Paper Title &amp; Authors:</td><td align="left">TBD</td>
+	  	    <td align="left">Author Notification:</td><td align="left" nowrap="nowrap">Monday, October 17, 2011</td>
 	       </tr>
 	       <tr>
-	  	    <td align="left">Camera-Ready Copy:</td><td align="left">TBD</td>
+	 	    <td align="left">Updates to Paper Title &amp; Authors:</td><td align="left" nowrap="nowrap">Monday, October 31, 2011</td>
+	       </tr>
+	       <tr>
+	  	    <td align="left">Camera-Ready Copy:</td><td align="left" nowrap="nowrap">November 28, 2011</td>
 	       </tr>
 	      </table>
 	    </div>

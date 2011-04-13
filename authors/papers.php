@@ -176,7 +176,7 @@
 ?> to review your submission for accuracy.  Send e-mail to <script>write_email("sigcse12-program", "cs.holycross.edu");</script> (Tracy Camp and Paul Tymann) if there are any problems.</li>
 </ol>
 
-<p><strong><i>Deadline:</i></strong> All electronic submissions must be <strong>received</strong> by <strong class="warning">TBD</strong> at 23:59 (11:59 p.m.) Hawaii-Aleutian Standard Time (HST).</p>
+<p><strong><i>Deadline:</i></strong> All electronic submissions must be <strong>received</strong> by <strong class="warning">Friday, September 2, 2011</strong> at 23:59 (11:59 p.m.) Hawaii-Aleutian Standard Time (HST).</p>
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="presentation">Presentation Notes</a></h2>

@@ -97,7 +97,7 @@
 ?> to review your submission for accuracy. Send e-mail to Olaf Hall-Holt <script>write_email( "sigcse12-bofs", "cs.holycross.edu" );</script> if there are any problems.</li>
 </ol>
 
-<p><strong><i>Deadline:</i></strong> All electronic submissions must be <strong>received</strong> by <strong class="warning">TBD</strong>.</p>         
+<p><strong><i>Deadline:</i></strong> All electronic submissions must be <strong>received</strong> by <strong class="warning">October 24, 2011 @ 11:59 p.m. Hawaii-Aleutian Standard Time (HST)</strong>.</p>         
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="presentation">Questions</a></h2>

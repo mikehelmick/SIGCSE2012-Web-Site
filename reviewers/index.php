@@ -19,13 +19,13 @@
       <h2><a name="kind">Important Dates for Paper Reviewers</a></h2>
       <table>
        <tr>
-        <td align="left">Paper Submission Deadline:</td><td align="left">TBD</td>
+        <td align="left">Paper Submission Deadline:</td><td align="left">Friday, September 2, 2011</td>
        </tr>
        <tr>
-  	    <td align="left">Papers to Reviewers:</td><td align="left">TBD</td>
+  	    <td align="left">Papers to Reviewers:</td><td align="left">Monday, September  5, 2011</td>
        </tr>
        <tr>
- 	    <td align="left">Reviews Due:</td><td align="left">TBD</td>
+ 	    <td align="left">Reviews Due:</td><td align="left">Wednesday, September 21, 2011</td>
        </tr>
       </table>
     </div>
@@ -54,7 +54,7 @@
 } else {
  echo "<em>reviewer information form (coming soon)</em>";
 }
-?> by <strong class="warning">TBD</strong>. Please select your areas of reviewing carefully, limiting yourself to areas in which you have expertise.</li>
+?> by <strong class="warning">Friday, September  2, 2011</strong>. Please select your areas of reviewing carefully, limiting yourself to areas in which you have expertise.</li>
     <li> If for some reason you do not want to continue as a reviewer, please send e-mail to <a href="mailto:sigcse@cs.grinnell.edu">sigcse@cs.grinnell.edu</a> using &quot;Remove Reviewer from SIGCSE Database&quot; as the message subject, and include your name, reviewer number, and password in the message body.</li>
    </ul>
  </li>
