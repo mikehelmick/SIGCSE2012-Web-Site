@@ -49,7 +49,7 @@
 <h2><a name="format">How Should The Proposal Be Formatted?</a></h2>
 </div></div>  
 
-<p>BOF proposals are to be provided in PDF format.  The full proposal contains an up to <?php echo $abstractCharLimit; ?> (including whitespace) BOF abstract (description) which must also be entered into a text box on the submission page.  The format for the BOF proposal is as follows.</p>
+<p>BOF proposals are to be provided in PDF format.  The full proposal contains an up to <?php echo $abstractCharLimit; ?> (including whitespace) BOF abstract. The abstract needs to appear in two places: in the PDF proposal and in a text box on the submission page (see below). The format for the BOF proposal is as follows.</p>
 
 <ol>
  <li><strong>BOF Proposal Format and Contents (limited to 1 page)</strong>
@@ -71,7 +71,6 @@
 
 <p>Here is a sample BOF Proposal:</p>
 <ul>
- <li><a href="/sigcse2012/downloads/BOFSample.doc">BOF Proposal Example (Word)</a></li>
  <li><a href="/sigcse2012/downloads/BOFSample.pdf" onclick="target='newwindow'">BOF Proposal Example (PDF)</a></li>
 </ul>
 
