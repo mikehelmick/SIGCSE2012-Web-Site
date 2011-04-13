@@ -7,7 +7,8 @@
 <h2>SIGCSE 2012 Program Committee</h2>
 </div></div>
 <table class="FadeTable" cellspacing="0" cellpadding="0">
-  <tr class="header"><td colspan="3" align="center">PROGRAM COMMITTEE</td></tr> 
+  <tr class="header"><td colspan="3" align="center">
+	<a href="index.php">PROGRAM COMMITTEE</a> | <a href="apc.php">ASSOCIATE PROGRAM CHAIRS</a></td></tr> 
   <tr><td align="left" valign="top">
 <p><strong>Symposium Chairs</strong><br /> 
 Laurie Smith King<br /> 
