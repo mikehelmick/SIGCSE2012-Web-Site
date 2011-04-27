@@ -410,3 +410,10 @@ blockquote {
 	border: 1px solid #EE2022;
 }
 
+.listing {
+	border-top: 2px solid #ED8002;
+	border-left: 2px solid #ED8002;
+	padding-left: 3px;
+	margin-right: 5px;
+}
+
