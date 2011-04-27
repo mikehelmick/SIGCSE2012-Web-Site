@@ -90,7 +90,9 @@ $abstractCharLimit = "800 characters";
 			<li><a id="revGuideWorkshops_menu" href="/sigcse2012/reviewers/guide_workshops.php">Workshop Review Guide</a></li>
 			<li><a id="revGuideBOFs_menu" href="/sigcse2012/reviewers/guide_bofs.php">Birds of a Feathers (BOFs) Review Guide</a></li>
 			<li><a id="revGuidePosters_menu" href="/sigcse2012/reviewers/guide_posters.php">Poster Review Guide</a></li>
-			<li>--</li>
+		  </ul>
+		  <hr/>
+		  <ul>
 			<li><a id="metareviews_menu" href="/sigcse2012/reviewers/metareviews.php">Meta-reviews</a></li>
 			<li><a href="/sigcse2012/faq/reviewers_faq.php">Reviewers FAQs</a></li>
 		  </ul>
