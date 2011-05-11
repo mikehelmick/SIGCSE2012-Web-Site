@@ -147,7 +147,7 @@ John Harrison<br/>
 Princess Ann High School<br/>
 Virginia Beach, VA<br/>
 <script>write_email("sigcse12-k12", "cs.holycross.edu");</script><br />
-</p>
+<img src="/sigcse2012/images/photos/john_harrison.jpg" /></p>
 
 <p class="listing"><b>International Liaison</b><br/>
 Raymond Lister<br/>
