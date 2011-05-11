@@ -15,8 +15,9 @@ qualified to review?</em><p>Please contact the Program Chair(s) as soon as possi
   <li><em>Why is Photoshop trying to open my papers, and what can I do about it?</em><p style="font-size: 1.0em">For security reasons, reviewers receive papers via a URL that uses a <tt>.asp</tt> file extension. This extension is used for Active Server Pages, but also for Photoshop photo indices.  If you have Photoshop installed, your web browser or operating system may believe that Photoshop is the appropriate application to access the file's content. Here are two suggestions to deal with this problem:</p>
    <ol><li>Save the <tt>.asp</tt> file with a <tt>.pdf</tt> extension.  Outside of your browser, use Adobe Acrobat Reader (or another PDF file viewer) to open the file.</li>
     <li> Modify your operating system's and/or web browser's preferences to force it/them to open <tt>.asp</tt> files with Reader.  When you are finished retrieving your assigned papers, you will probably want to return the setting(s) to the original value(s).</li>
-   </ol>
+   </ol></p>
   </li>
+  <li><em>Am I supposed to know who submitted the proposal for a panel, special session, or workshop?</em><p>Yes. Submissions in those categories are not supposed to be anonymous.</p></li>
 </ol>
 <?php
  $updated = filemtime( $_SERVER["SCRIPT_FILENAME"] );
