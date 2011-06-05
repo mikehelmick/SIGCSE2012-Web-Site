@@ -46,9 +46,9 @@
  echo "<em>reviewer information form (coming soon)</em>";
 }
 ?>. Please limit yourself to areas in which you feel somewhat expert. The system will automatically ask you to consider the areas carefully if you choose more than four.</p></li>
- <li><strong>For Those Who Have Previously Reviewed</strong><p>All people currently listed in the reviewer database will receive an e-mail message during August with their current recorded information.</p>
+ <li><strong>For Those Who Have Previously Reviewed</strong><p>All people currently listed in the reviewer database will receive an e-mail message in August with their current recorded information.</p>
   <ul>
-	<li> If you would like to update the information in the database, go to the
+	<li>If you would like to update your information in the database, go to the
 <?php if ($submissionReady) {
  echo '<a href="http://www.cs.grinnell.edu/~sigcse/sigcse2012/reviewerRegistration.shtml">reviewer information form</a>';
 } else {
@@ -79,11 +79,11 @@
    <li><a href="guide_panels.php">Guidelines for Reviewers of Panel Submissions</a></li>
    <li><a href="guide_sessions.php">Guidelines for Reviewers of Special Session Submissions</a></li>
    <li><a href="guide_workshops.php">Guidelines for Reviewers of Workshop Submissions</a></li>
-   <li><a href="guide_bofs.php">Guidelines for Reviewers Birds of a Feathers (BOFs) Submissions</a></li>
+   <li><a href="guide_bofs.php">Guidelines for Reviewers of Birds of a Feathers (BOFs) Submissions</a></li>
    <li><a href="guide_posters.php">Guidelines for Reviewers of Poster Submissions</a></li> 
   </ul>
   </li>
-  <li> Access your assigned submissions(s) through the
+  <li> Access your assigned submission(s) through the
 <?php if ($submissionReady) {
  echo '<a href="http://www.cs.grinnell.edu/~sigcse/sigcse2012/reviewerViewing.asp">submission viewing form</a>';
 } else {
