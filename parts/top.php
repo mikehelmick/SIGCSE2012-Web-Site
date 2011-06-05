@@ -87,7 +87,7 @@ $abstractCharLimit = "800 characters";
 		<div id="attendees_sub" class="submenu" style="<?php echo $menuStyle; ?>">
 		  <ul>
 			<li><a id="attendeesGeneral_menu" href="/sigcse2012/attendees/">General Information</a></li>
-			<li><a id="attendeesKeynote_menu" href="/sigcse2012/attendees/keynotes.php">Keynote Speakers</a></li>
+			<li><a id="attendeesKeynotes_menu" href="/sigcse2012/attendees/keynotes.php">Keynote Speakers</a></li>
 		  </ul>
 		</div>		
 		<div class="menu"><a id="reviewers_menu" onclick="toggle_menu('reviewers');">Reviewers<img id="reviewers_status" src="/sigcse2012/images/arrow_down.png" align="absmiddle"></a></div>
