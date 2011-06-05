@@ -13,7 +13,7 @@
   <ul>
     <li><a href="#requirements">Formatting Requirements</a></li>
     <li><a href="#pages">Page Limits</a></li>
-    <li><a href="#copyright">Copyright/Permission forms</a></li>
+    <li><a href="#copyright">Copyright/Permission Forms</a></li>
     <li><a href="#templates">Templates and Samples</a></li>
     <li><a href="#questions">Questions?</a></li>
   </ul>
@@ -65,7 +65,7 @@
 <li><b>Required Sections:</b> The following unnumbered sections are required at the beginning of the document in the following order:</li>
 <li><b>Abstract:</b> The abstract should be a short description of the work described in the document. The title of the section ("ABSTRACT") should be formatted as a section head (i.e., flush left, Times Roman, bold, 12 point, ALL CAPITALS).</li>
 <li><b>Categories and Subject Descriptors:</b> The ACM Computing Classification Scheme is available at <a href="http://www.acm.org/class/1998/">acm.org/class/1998/</a> Most submissions are likely to use category K.3.2 Computer and Information Science Education. The title of this section ("Categories and Subject Descriptors") should be formatted as a subsection head (i.e., flush left, Times Roman, bold, 12 point, Initial Letters Capitalized).</li>
-<li><b>General Terms:</b> This section is limited to the following 16 terms: Algorithms, Management, Measurement, Documentation, Performance, Design, Economics, Reliability, Experimentation, Security, Human Factors, Standardization, Languages, Theory, Legal Aspects, Verification. The title of this section ("General Terms") should be formatted as a subsection head.</li>
+<li><b>General Terms:</b> This section is limited to the following 16 terms (which are defined by the ACM Computing Classification Scheme): Algorithms, Management, Measurement, Documentation, Performance, Design, Economics, Reliability, Experimentation, Security, Human Factors, Standardization, Languages, Theory, Legal Aspects, Verification. The title of this section ("General Terms") should be formatted as a subsection head.</li>
 <li><b>Keywords:</b> This section is your choice of words you would like your publication to be indexed by. The title of this section ("Keywords") should be formatted as a subsection head.</li>
 <li><b>Other Requirements:</b> Do NOT use page numbers or headers/footers. Use a blank line between paragraphs.</li>
 </ul>
@@ -106,12 +106,12 @@
 </p>
 
 <div class="SectionHeader"><div class="Full">
-<h2><a name="copyright">Copyright/Permission forms</a></h2>
+<h2><a name="copyright">Copyright/Permission Forms</a></h2>
 </div></div> 
 
-<p>All authors of accepted papers will need to submit a signed copyright form with the FINAL document.</p>
+<p>All authors of accepted papers will need to submit a signed copyright form with their FINAL document.</p>
 <p>All authors of accepted panels or special sessions will need to submit a signed permission form with the FINAL document.</p>
-<p>Information will be sent to authors after notification of acceptance by the program committee.</p>
+<p>Information on these forms will be sent to authors after notification of acceptance by the program committee.</p>
 
 
 <div class="SectionHeader"><div class="Full">
