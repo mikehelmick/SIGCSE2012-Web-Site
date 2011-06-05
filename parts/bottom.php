@@ -4,8 +4,9 @@
 
  <div id="footercontainer">
 	<div id="footer">
-	  <p><a href="http://www.sigcse.org/"><img src="/sigcse2012/images/sigcse.gif" alt="SIGCSE Logo" align="absmiddle"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.acm.org/"><img src="/sigcse2012/images/acm_logo.gif" alt="ACM Logo" align="absmiddle"/></a></p>
-	  <p>Web site Copyright &copy; 2011, ACM SIGCSE | This page was last updated: <?php date_default_timezone_set('America/Los_Angeles'); print(date("F jS, Y @ h:i T", $updated)); ?></p>
+	  <p><a href="http://www.sigcse.org/"><img src="/sigcse2012/images/sigcse.gif" alt="SIGCSE Logo" align="absmiddle"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.acm.org/"><img src="/sigcse2012/images/acm_logo.gif" alt="ACM Logo" align="absmiddle"/></a></p>	
+	  <p>Our Website is open source: <a href="https://github.com/mikehelmick/SIGCSE2012-Web-Site">https://github.com/mikehelmick/SIGCSE2012-Web-Site</a><br/>
+	  Web site Copyright &copy; 2011, ACM SIGCSE | This page was last updated: <?php date_default_timezone_set('America/Los_Angeles'); print(date("F jS, Y @ h:i T", $updated)); ?></p>
 	  </p>
 	</div>
  </div>
