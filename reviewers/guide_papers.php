@@ -9,7 +9,7 @@
 </div></div>   
 <ul>
  <li><a href="#general">General Recommendations</a></li>
- <li><a href="#substandard">Substandard</a></li>
+ <li><a href="#substandard">Substandard Recommendations</a></li>
  <li><a href="#examples">Examples of Good Reviews</a></li>
 </ul>
 
@@ -25,26 +25,26 @@
   <li><strong>Tool papers</strong> may describe courseware or a technique that the author believes has wide application.</li>
 </ul>
  <p>While each type of paper is evaluated on organization, technical soundness, potential contribution and overall evaluation, you may be looking for different things in these categories depending on the category of the paper. You do not need to require an experience report to be a research study, nor a research study to provide a tool.  All papers should show appropriate organization and should reflect the literature that already exists related to the topic being discussed.  All claims should be supported by logical arguments that follow from ideas, experience or data provided. </p></li>
- <li> Your job as a reviewer is to write detailed reviews, even for excellent papers. Tell the authors why you liked their paper, so that the authors know what made them so successful.</li>
+ <li>Your job as a reviewer is to write detailed reviews, even for excellent papers. In addition to telling the authors what you didn't like about their paper, be sure to include what you did like as well.</li>
  <li>Even if your opinion is that the paper is poorly written or poorly thought-out, you can still provide constructive criticisms to help the authors, and in the long run, the conference.  Think of your goal as convincing the authors of the paper you're reviewing to submit something else next year, but of such high quality that it will be well-reviewed and easily accepted. Give the authors advice on how to do that.</li>
  <li>The best reviews clearly justify the reviewer's choice of rating.  The least valuable review gives a low score with no written comments.  That simply tells the authors that they have been unsuccessful, with no indication of how or why.</li>
  <li> The focus of your review should be on content.</li>
- <li>Papers that you receive are supposed to be anonymous. Your review should be based on the merits of the paper, not the reputation of the authors or their institutions. Therefore, we have asked the authors to remove all identifiable references to themselves.  We realize that reviewers sometimes know the work and can guess who the authors of the papers might be.</li>
- <li>If you recognize the work, it is your responsibility to give a fair and unbiased review, using only the information in the paper. If you do not feel that you can give a fair, unbiased review based on the paper and not the authors or institutions, please contact the program chairs immediately.</li>
+ <li>Papers that you review are supposed to be anonymous. Your review should be based on the merits of the paper, not the reputation of the authors or their institutions. Therefore, we have asked the authors to remove all identifiable references to themselves.  We realize that reviewers sometimes know the work and can guess who the authors of the papers might be.</li>
+ <li>If you recognize the work, it is your responsibility to give a fair and unbiased review, using only the information in the paper. If you do not feel that you can give a fair, unbiased review of the paper and not the authors or institutions, please contact the program chairs immediately.</li>
  <li>Your review should not include comments to the authors about the anonymization (or lack thereof) in the paper.  If you feel that it is necessary to comment on this, please use the text box, 'Confidential comments to the committee.'</li>
  <li>We realize that occasionally anonymization requires the authors to remove information that affects your review (information that otherwise the paper appears to lack). As a reviewer, you can give the authors the benefit of the doubt. Use the 'Confidential comments to the committee' box to indicate this to us. Example "This paper should reference Mark Guzdial's work, unless those references were removed for anonymity").</li>
- <li>Please point out typographic and grammatical errors, unless there are too many of them.</li>
+ <li>Please point out typographic and grammatical errors; if there are too many to list, please state so in your review.</li>
  <li>Although SIGCSE requires all submitted papers to be polished work, all accepted authors get a brief opportunity to improve the presentation of their paper before camera-ready copy is due. Your detailed feedback may help improve a paper, and in a small way, improve the conference.</li>
 </ul>
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="substandard">Substandard Recommendations</a></h2>
 </div></div>  
-<p>SIGCSE 2012 will use a <a href="metareviews.php">meta-review process</a> after reviews have been turned in.  Reviews that do not objectively, accurately, and clearly assess a paper's suitability for publication at SIGCSE, founded in the reviewer's disciplinary expertise and on the basis of the written paper's originality, technical soundness, contribution to CS education, and clarity of presentation may be deleted.</p>
+<p>SIGCSE 2012 will use a <a href="metareviews.php">meta-review process</a> after reviews have been submitted.  Reviews that do not objectively, accurately, and clearly assess a paper's suitability for publication at SIGCSE, founded in the reviewer's disciplinary expertise and on the basis of the written paper's originality, technical soundness, contribution to CS education, and clarity of presentation, may be deleted.</p>
 <p>For example, an unacceptable review might:</p>
 <ul>
  <li>be incoherent, unreadable, or irrelevant to the paper;</li>
- <li>focus on the paper's topic area or presumed authors at the expense of assessment of the paper itself; or</li>
+ <li>focus on the paper's topic area or presumed authors at the expense of assessing the paper itself; or</li>
  <li>provide no justification for its numeric ratings. (Even in &quot;obvious&quot; cases, reviewers should briefly justify ratings.)</li>
 </ul>
 <p>Please note that a difference in rating or opinion with other reviewers or PC members will NEVER be cause for deletion of a review.</p>
