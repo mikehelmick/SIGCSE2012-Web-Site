@@ -89,9 +89,9 @@
  <li> Convert your document into Adobe PDF format. Refer to our <a href="creating_pdf.php">Creating Adobe PDF Documents page</a> for assistance.</li>
  <li>Submit your document and <?php echo $abstractCharLimit; ?> (including whitespace) text abstract description using the
 <?php if ($submissionReady) {
- echo '<a href="http://www.cs.grinnell.edu/~sigcse/sigcse2012/submission.shtml">online poster submission Form</a>';
+ echo '<a href="http://www.cs.grinnell.edu/~sigcse/sigcse2012/submission.shtml">online poster submission form</a>';
 } else {
- echo "<em>online poster submission Form (coming soon)</em>";
+ echo "<em>online poster submission form (coming soon)</em>";
 } ?> Please do not wait until the last minute to submit your document because that is when everyone else will be connecting to our server!</li>
  <li> Make note of the poster ID number and password assigned to your submission. You will receive an e-mail message confirmation. Spam filters sometimes trap these automatically generated messages so you may need to check your spam trap for the confirmation and later, acceptance or rejection notification.</li>
  <li> After receiving confirmation, go to the

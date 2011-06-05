@@ -96,9 +96,9 @@
  <li>Convert the proposal document into Adobe PDF format. Refer to our <a href="creating_pdf.php">Creating Adobe PDF Documents page</a> for assistance.</li>
  <li>Submit the <tt>.pdf</tt> proposal and the <?php echo $abstractCharLimit; ?> (including whitespace) text abstract description using the
 <?php if ($submissionReady) {
- echo '<a href="http://www.cs.grinnell.edu/~sigcse/sigcse2012/submission.shtml">online workshop submission Form</a>';
+ echo '<a href="http://www.cs.grinnell.edu/~sigcse/sigcse2012/submission.shtml">online workshop submission form</a>';
 } else {
- echo "<em>online workshop submission Form (coming soon)</em>";
+ echo "<em>online workshop submission form (coming soon)</em>";
 } ?>. Note that the text version of the abstract will be published in the various forms of the program and proceedings, and may be formatted and/or edited to meet their requirements.  The proposal, formatted in <tt>.pdf</tt>, is for reviewers only. Please do not wait until the last minute to submit your documents because that is when everyone else will be connecting to our server!</li>
  <li>Make note of the workshop ID number and password assigned to your submission. You will receive an e-mail message confirmation. Spam filters sometimes trap these automatically generated messages. You may need to check your spam trap for the confirmation and, later, for the acceptance or rejection notification.</li>
  <li> After receiving confirmation, go to the

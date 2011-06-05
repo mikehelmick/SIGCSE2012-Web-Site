@@ -145,7 +145,7 @@
 <h2><a name="format">How Should The Paper Be Formatted?</a></h2>
 </div></div>     
 
-<p>Authors must submit <b>two versions</b> of their paper: a "publication" version that includes author/institution information, and an anonymized version. The goal of the anonymized version is to, as much as possible, allow the author(s) of the paper an unbiased review. The anonymized version should have ALL references to the authors removed (including author's names and affiliation plus identifying information within the body of the paper such as websites or related publications).  Self-citations need not be removed if they are worded  so that the reviewer doesn't know if the writer is citing himself/herself. That is, instead of writing "We reported on our first experiment with this work in 2007 in a previous paper [1]", the writer might write "In 2007, an initial experiment was done in this area as reported in [1]."</p>
+<p>Authors must submit <b>two versions</b> of their paper: a "publication" version that includes author/institution information, and an anonymized version. The goal of the anonymized version is to, as much as possible, allow the author(s) of the paper an unbiased review. The anonymized version should have ALL references to the authors removed (including author's names and affiliation plus identifying information within the body of the paper such as websites or related publications).  Self-citations need not be removed if they are worded  so that the reviewer doesn't know if the writer is citing himself/herself. That is, instead of writing "We reported on our first experiment in 2007 in a previous paper [1]", the writer might write "In 2007, an initial experiment was done in this area as reported in [1]."</p>
             
 <p>The publication version is available for use by the Program Committee. Both versions are limited to a <strong>maximum of 6 pages</strong> and must adhere to the <a href="format.php">SIGCSE 2012 Format Instructions</a>. <a href="http://www.acm.org/sigs/pubs/proceed/template.html">Templates are available in Word, WordPerfect, and LaTeX</a>.</p>
 <p>If your paper is accepted you will have a chance to modify your publication version before it is published.</p>
@@ -160,9 +160,9 @@
  <li> Convert your paper into Adobe PDF format. Refer to our <a href="creating_pdf.php">Creating Adobe PDF Documents page</a> for assistance.</li>
  <li> Submit both versions using the
 <?php if ($submissionReady) {
- echo '<a href="http://www.cs.grinnell.edu/~sigcse/sigcse2012/submission.shtml">online paper submission Form</a>';
+ echo '<a href="http://www.cs.grinnell.edu/~sigcse/sigcse2012/submission.shtml">online paper submission form</a>';
 } else {
- echo "<em>online paper submission Form (coming soon)</em>";
+ echo "<em>online paper submission form (coming soon)</em>";
 } 
 ?>. Note that there are several ways you must categorize your paper submission in the online system. The broad classification you choose allows the reviewer to evaluate the paper from an appropriate perspective. The course and general topic categories you choose are used to select the reviewers who will evaluate your paper. To increase the likelihood that your paper will be given to a reviewer who is familiar with the content of your paper, choose one broad classification and at most three course-related and/or general topic areas that best fit your paper. <strong>Selection of more than four content categories may result in automatic rejection of your paper.</strong></li>
  <li>Please do not wait until the last minute to submit your documents, because that is when everyone else will be connecting to our server!</li>

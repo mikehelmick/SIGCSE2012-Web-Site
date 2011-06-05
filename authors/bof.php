@@ -90,9 +90,9 @@
  <li> Make note of the BOF ID number and password assigned to your submission.  You will receive an e-mail message confirmation. Spam filters sometimes trap these automatically generated messages so you may need to check your spam trap for the confirmation and later, acceptance or rejection notification.</li>
  <li> After receiving confirmation, go to the 
 <?php if ($submissionReady) {
- echo '<a href="http://www.cs.grinnell.edu/~sigcse/sigcse2012/submission.shtml">Author Verification Form</a>';
+ echo '<a href="http://www.cs.grinnell.edu/~sigcse/sigcse2012/submission.shtml">author verification form</a>';
 } else {
- echo "<em>Author Verification Form (coming soon)</em>";
+ echo "<em>author verification form (coming soon)</em>";
 } 
 ?> to review your submission for accuracy. Send e-mail to Olaf Hall-Holt <script>write_email( "sigcse12-bofs", "cs.holycross.edu" );</script> if there are any problems.</li>
 </ol>
