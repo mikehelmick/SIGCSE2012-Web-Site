@@ -71,7 +71,7 @@
 </ul>
 </p>
 
-<h3>New ACM Reference guidelines.</h3>
+<h3>ACM Web Reference Guidelines</h3>
 <p>Elements (in most cases):
 	<ol>
 	<li>Author(s)</li>
