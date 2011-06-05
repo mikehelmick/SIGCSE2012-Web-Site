@@ -48,9 +48,9 @@
 <p>We invite papers falling into the following four broad classes.</p>
 <ul>
  <li><strong>Experience Reports</strong> describe an idea, course or classroom experience that worked well and is now recommended to others.</li>
- <li><strong>Research Studies</strong> report on a study grounded in theory, and using appropriate methodology (e.g., case study, qualitative methods, quasi-experimental, experimental) to support the investigation and stated results.</li>
- <li><strong>Philosophical</strong> papers present an argument for a direction or idea to be considered in the curriculum, a particular course, or the overall field.</li>
- <li><strong>Tool</strong> papers present courseware or a concrete process that has been developed and is now ready for wider use.</li>
+ <li><strong>Research Studies</strong> present a careful study, with an appropriate use of methodology (e.g., case study, qualitative methods, quasi-experimental, experimental) to support the investigation and stated results. The methodology does not need to be quantitative; it does, however, need to be appropriate to support the claims made by the author.</li>
+ <li><strong>Philosophical Papers</strong> present an argument for a direction or idea to be considered in our curriculum, a particular course, or the overall field.</li>
+ <li><strong>Tool Papers</strong> present courseware or a concrete process that has been developed and is now ready for wider use.</li>
 </ul>
 <p>In all cases, papers must be original work; they should include a review of previous, related work that helps place the submitted work into context. All results and arguments presented should follow clearly from the evidence provided in the paper.</p>
 <p>Within the broad classes above, we encourage submissions that address any of the following course-related areas:</p>
