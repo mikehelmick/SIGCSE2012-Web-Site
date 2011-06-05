@@ -25,11 +25,13 @@ Carleton College<br/>
 <strong>Program Chairs</strong><br>
 Tracy Camp<br/>
 Colorado School of Mines<br/>
+<img src="/sigcse2012/images/photos/tracy_camp.jpg" />
 &nbsp;<br/>
 Paul Tymann<br/>
 Rochester Institute of Technology<br/>
 <script>write_email("sigcse12-program", "cs.holycross.edu");</script><br/>
-<img src="/sigcse2012/images/photos/tracy_camp.jpg" /></p>
+<img src="/sigcse2012/images/photos/paul_tymann.jpg" />
+</p>
 
 <p class="listing"><b>Panels and Special Sessions</b><br/>
 Chuck Leska<br/>
