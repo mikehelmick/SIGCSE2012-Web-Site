@@ -11,7 +11,8 @@ This policy was approved by the SIGCSE Board in June of 2008.</p>
 <div class="SectionHeader"><div class="Full">
 <h2>Questions on this policy as it relates to SIGCSE 2012?</h2>
 </div></div>   
-<p>If you have questions, please contact SIGCSE 2012 Program Chairs: <script>write_email( "sigcse12-program", "cs.holycross.edu" );</script><br/>
+<p>If you have questions, please contact the SIGCSE 2012 Program Chairs:<br/>
+<script>write_email( "sigcse12-program", "cs.holycross.edu" );</script><br/>
 Tracy Camp<br/>
 Colorado School of Mines<br/>
 &nbsp;<br/>
