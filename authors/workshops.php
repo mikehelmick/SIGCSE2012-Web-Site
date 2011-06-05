@@ -116,7 +116,7 @@
 </div></div>   
 <p>If you have questions about workshop submissions, please contact the SIGCSE 2012 workshop chairs:<br/>
 Adrienne Decker<br/>
-University at Buffalo (SUNY)<br/>
+University at Buffalo, SUNY<br/>
 &nbsp;<br/>
 Lester I. McCann<br/>
 The University of Arizona<br/>

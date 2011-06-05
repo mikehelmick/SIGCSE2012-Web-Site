@@ -40,7 +40,7 @@ Randolph Macon College<br/>
 
 <p class="listing"><b>Workshops</b><br/>
 Adrienne Decker<br/>
-University at Buffalo (SUNY)<br/>
+University at Buffalo, SUNY<br/>
 <img src="/sigcse2012/images/photos/adrienne_decker.jpg" /><br />
 &nbsp;<br/>
 Lester I. McCann<br/>
@@ -122,7 +122,7 @@ University at Buffalo, SUNY<br/>
 
 <p class="listing"><b>Kids' Camp</b><br/>
 Susan Fox<br/>
-Macalester Collage<br/>
+Macalester College<br/>
 <img src="/sigcse2012/images/photos/susan_fox.jpg" /><br />
 &nbsp;<br/>
 Sarah Monisha Pulimood<br/>

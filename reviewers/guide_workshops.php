@@ -61,7 +61,7 @@
 
 <p>Please contact the SIGCSE 2012 Workshops Co-Chairs with your questions:<br/>
 Adrienne Decker<br/>
-University at Buffalo (SUNY)<br/>
+University at Buffalo, SUNY<br/>
 &nbsp;<br/>
 Lester I. McCann<br/>
 The University of Arizona<br/>
