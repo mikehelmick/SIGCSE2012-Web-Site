@@ -10,13 +10,13 @@
 <h2>These Questions Are Answered Below</h2>
 </div></div> 
 <ul>
- <li><a href="#adobe">What is Adobe PDF format?</a></li>
+ <li><a href="#adobe">What is Adobe PDF Format?</a></li>
  <li><a href="#pdfformat">How Can I Convert My Documents to Adobe PDF Format?</a></li>
  <li><a href="#latex">How Can I Convert My LaTeX Documents?</a></li>
 </ul>
 
 <div class="SectionHeader"><div class="Full">
-<h2><a name="types">What is Adobe PDF format?</a></h2>
+<h2><a name="types">What is Adobe PDF Format?</a></h2>
 </div></div> 
 <p>Adobe Portable Document Format (PDF) documents are a standardized and convenient method to exchange data files without affecting the original appearance. SIGCSE will accept electronic submissions of papers only in this format.</p>
 
@@ -31,7 +31,7 @@
  <li><a href="http://www.primopdf.com">PrimoPDF</a> is a free program that installs like a printer and saves your file as a PDF document.</li>
  <li> If you already have Adobe Acrobat installed on your computer refer to your software documentation for instructions on choosing PDF Writer as your printer. Instead of printing your document, the software will create a PDF file.</li>
  <li>Export your document from within OpenOffice, available at <a href="http://openoffice.org">openoffice.org</a>.</li>
- <li>Adobe has an online service to convert your Word, WordPerfect and other formatted documents into Adobe PDF format (<a href="http://cpdf.adobe.com/">Create Adobe PDF Online</a>). The converted file is either sent to you via e-mail or available through FTP.  You may register for a trial membership of the Adobe Online service and convert five files at no charge. This is our least-recommended option because the conversion will not embed the fonts and the resulting document may not look good on other machines. </li>
+ <li>Adobe has an online service to convert your Word, WordPerfect and other formatted documents into Adobe PDF format (<a href="https://createpdf.acrobat.com/">Create Adobe PDF Online</a>). The converted file is either sent to you via e-mail or available through FTP.  You may register for a trial membership of the Adobe Online service and convert five files at no charge. This is our least-recommended option because the conversion will not embed the fonts and the resulting document may not look good on other machines. </li>
 </ul>
 
 <div class="SectionHeader"><div class="Full">
