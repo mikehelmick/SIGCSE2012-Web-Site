@@ -168,8 +168,8 @@ Virginia Beach, VA<br/>
 </p>
 
 <p><b>International Liaison</b><br/>
-Raymond Lister<br/>
-University of Technology<br/>
+Catherine Lang<br/>
+Swinburne University<br/>
 <script>write_email("sigcse12-international", "cs.holycross.edu");</script>
 </p>
 
