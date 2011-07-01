@@ -42,7 +42,7 @@ Randolph Macon College<br/>
 
 <p class="listing"><b>Workshops</b><br/>
 Adrienne Decker<br/>
-University at Buffalo, SUNY<br/>
+Rochester Institute of Technology<br/>
 <img src="/sigcse2012/images/photos/adrienne_decker.jpg" /><br />
 &nbsp;<br/>
 Lester I. McCann<br/>

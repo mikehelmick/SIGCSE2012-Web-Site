@@ -21,7 +21,7 @@ The 43rd ACM Technical Symposium on Computer Science Education</h2>
 <p>Our three-sided conference theme, "Teaching, Learning, and Collaborating," commemorates North Carolina's renowned "Research Triangle" where SIGCSE 2012 will be held. Teaching, learning, and collaborating occur inside and outside of the classroom, among various combinations of students, academics, industry professionals, and others.</p>
 
 <h3>PAPERS</h3>
-<p>Papers describe a classroom experience, teaching technique, curricular initiative, or educational research project. Two versions of a submission are required: a full version having author names and affiliations and an anonymous version for use in reviewing. Papers will undergo a blind reviewing process and must not exceed six pages. Authors will have approximately 25 minutes for their presentations, including questions and answers. At least one author of each accepted paper must register and attend the conference to present.</p>
+<p>Papers describe a classroom experience, teaching technique, curricular initiative, or educational research project. Two versions of a submission are required: a full version having author names and affiliations and an anonymous version for use in reviewing. Papers will undergo a blind reviewing process and must not exceed six pages. Authors will have approximately 25 minutes for their presentations, including questions and answers.</p>
 
 <h3>PANELS</h3>
 <p>Panels present multiple perspectives on a specific topic. To allow each panelist sufficient time to present his or her perspective and still enable audience participation, a panel will normally have at most four panelists, including one moderator. Panel submissions should include a list of the panelists, their affiliations, and a description of the topic, with brief position statements from panelists. Proposals with more than four panelists must provide a statement connecting the extra panelist to the effectiveness of the panel and must convincingly show that each panelist will be able to speak, and the audience able to respond, within the session time. Panel abstracts must not exceed two pages. A panel session is approximately 75 minutes long.</p>
@@ -70,7 +70,7 @@ Randolph Macon College<br/>
 
 <p><b>Workshops</b><br/>
 Adrienne Decker<br/>
-University at Buffalo, SUNY<br/>
+Rochester Institute of Technology<br/>
 &nbsp;<br/>
 Lester I. McCann<br/>
 The University of Arizona<br/>
