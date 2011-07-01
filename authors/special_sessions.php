@@ -6,6 +6,7 @@
 
 <h1>Special Session Submission Guidelines</h1>             
  <div class="Alert">By SIGCSE policy, all special session presenters are required to register for the conference, and to attend and participate in their special session.</div> 
+<div class="GoodMessage">Ready to submit? Read the guidelines below, then <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2012/submission.shtml">click here to start the submission process.</a></div>
              
 <table width="99%">
  <tr>

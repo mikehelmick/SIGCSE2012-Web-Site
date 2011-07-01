@@ -1,7 +1,7 @@
 <?php header('Content-type: text/html; charset=utf-8'); ?>
 <?php 
 // Global configuration
-$submissionReady = false;
+$submissionReady = true;
 $abstractCharLimit = "800 characters";
 
 ?>

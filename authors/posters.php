@@ -5,6 +5,7 @@
 ?>
 <h1>Poster Submission Guidelines</h1>             
  <div class="Alert">By SIGCSE policy, at least one author of each accepted poster is required to register for the conference, and to present the poster during the assigned poster session.</div> 
+<div class="GoodMessage">Ready to submit? Read the guidelines below, then <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2012/submission.shtml">click here to start the submission process.</a></div>
              
 <table width="99%">
  <tr>

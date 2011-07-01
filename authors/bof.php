@@ -5,6 +5,7 @@
 ?>
 <h1>Birds of a Feather ("BOF") Submission Guidelines</h1>   
 <div class="Alert">By SIGCSE policy, the proposer and all discussion leaders are required to register for the conference and to be present for the BOF session.</div>          
+<div class="GoodMessage">Ready to submit? Read the guidelines below, then <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2012/submission.shtml">click here to start the submission process.</a></div>
              
 <table width="99%">
  <tr>

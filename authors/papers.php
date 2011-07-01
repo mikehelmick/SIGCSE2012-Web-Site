@@ -4,8 +4,9 @@
  include("../parts/top.php");
 ?>
 <h1>Paper Submission Guidelines</h1>
-<div class="Alert">By SIGCSE policy, at least one author of each accepted paper is required to register, attend and present the paper.</div>             
-             
+<div class="Alert">By SIGCSE policy, at least one author of each accepted paper is required to register, attend and present the paper.</div>
+<div class="GoodMessage">Ready to submit? Read the guidelines below, then <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2012/submission.shtml">click here to start the submission process.</a></div>
+
 <table width="99%">
  <tr>
   <td width="50%" align="left" valign="top">

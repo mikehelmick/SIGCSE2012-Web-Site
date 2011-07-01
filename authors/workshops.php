@@ -5,6 +5,7 @@
 ?>
 <h1>Workshop Submission Guidelines</h1>             
 <div class="Alert">By SIGCSE policy, all workshop presenters are required to register for the conference, and to attend and lead their workshops.</div> 
+<div class="GoodMessage">Ready to submit? Read the guidelines below, then <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2012/submission.shtml">click here to start the submission process.</a></div>
              
 <table width="99%">
  <tr>
