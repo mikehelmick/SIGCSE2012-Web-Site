@@ -152,10 +152,10 @@ Virginia Beach, VA<br/>
 <img src="/sigcse2012/images/photos/john_harrison.jpg" /></p>
 
 <p class="listing"><b>International Liaison</b><br/>
-Raymond Lister<br/>
-University of Technology<br/>
+Catherine Lang<br/>
+Swinburne University<br/>
 <script>write_email("sigcse12-international", "cs.holycross.edu");</script><br />
-<img src="/sigcse2012/images/photos/raymond_lister.jpg" /></p>
+<img src="/sigcse2012/images/photos/clang.jpg" /></p>
 
 <p class="listing"><b>Local Arrangements</b><br/>
 Sarah Heckman<br/>
