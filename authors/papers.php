@@ -58,19 +58,19 @@
 <table class="fancy" style="border: 0px">
  <tr class="odd hover">
   <td class="outline">Algorithms</td>
-  <td class="outline">Architecture</td>
-  <td class="outline">Artificial Intelligence</td>
+  <td class="outline">Architecture/Hardware</td>
+  <td class="outline">Artificial Intelligence/Machine Learning</td>
   <td class="outline">Compiler / Programming Languages &amp; Paradigms</td>
  </tr>
  <tr  class="even hover">
   <td class="outline">Computational Science</td>
   <td class="outline">CS 1/2</td>
-  <td class="outline">Database</td>
+  <td class="outline">Database/Data Mining</td>
   <td class="outline">Data Structures</td>
  </tr>
  <tr class="odd hover">
   <td class="outline">Discrete Mathematics</td>
-  <td class="outline">Distributed/Parallel Computing</td>
+  <td class="outline">Distributed/Parallel Computing/HPC</td>
   <td class="outline">Graphics/Visualization</td>
   <td class="outline">Human-Computer Interaction</td>
  </tr>
@@ -78,7 +78,7 @@
   <td class="outline">Networking</td>
   <td class="outline">Operating Systems</td>
   <td class="outline">Real time/Embedded Systems</td>
-  <td class="outline">Security</td>
+  <td class="outline">Privacy/Security</td>
  </tr>
  <tr class="odd hover">
   <td class="outline">Software Engineering</td>
