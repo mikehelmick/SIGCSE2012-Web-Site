@@ -30,7 +30,7 @@ Raleigh. <a href="href=www.supershuttle.com">SuperShuttle</a> and <a href=www.ri
 
 <p>Parking may be found in a number of nearby parking garages, all of which  cost $7/day for self-parking. Visit the <a href="www.raleighconvention.com">convention center website</a> for more information on directions and parking.</p>
 
-
+<iframe width="625" height="550" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?msa=0&amp;msid=214023835324672632677.0004a785978d5b24c725c&amp;ie=UTF8&amp;ll=35.773675,-78.641011&amp;spn=0,0&amp;output=embed"></iframe><br /><small>View <a href="http://maps.google.com/maps/ms?msa=0&amp;msid=214023835324672632677.0004a785978d5b24c725c&amp;ie=UTF8&amp;ll=35.773675,-78.641011&amp;spn=0,0&amp;source=embed" style="color:#0000FF;text-align:left">SIGCSE 2012</a> in a larger map</small>
 
 <?php
  $updated = filemtime( $_SERVER["SCRIPT_FILENAME"] );
