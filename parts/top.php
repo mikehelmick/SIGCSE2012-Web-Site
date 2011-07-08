@@ -93,6 +93,7 @@ $abstractCharLimit = "800 characters";
 			<li><a id="attendeesAccommodations_menu" href="/sigcse2012/attendees/accommodations.php">Accommodations</a></li>
 			<li><a id="attendeesTravel_menu" href="/sigcse2012/attendees/travel.php">Travel Information</a></li>
 			<li><a id="attendeesVisas_menu" href="/sigcse2012/attendees/visas.php">Visa Information</a></li>
+			<li><a id="attendeesFloorPlans_menu" href="/sigcse2012/attendees/floor_plans.php">Floor Plans</a></li>
 		  </ul>
 		</div>		
 		<div class="menu"><a id="reviewers_menu" onclick="toggle_menu('reviewers');">Reviewers<img id="reviewers_status" src="/sigcse2012/images/arrow_down.png" align="absmiddle"></a></div>
