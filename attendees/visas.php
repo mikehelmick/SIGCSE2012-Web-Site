@@ -24,7 +24,7 @@
 </div></div>
 <br/> 
 
-<p>The Association for Computing Machinery (ACM, SIGCSE's umbrella organization) does not issue formal invitation letters for visas.  However, they can issue a visa support letter.  For a visa support letter, please send a request to <a href="mailto:supportletters@acm.org">support letters@acm.org</a> with the following information:
+<p>The Association for Computing Machinery (ACM, SIGCSE's umbrella organization) does not issue formal invitation letters for visas.  However, they can issue a visa support letter.  For a visa support letter, please send a request to <a href="mailto:supportletters@acm.org">supportletters@acm.org</a> with the following information:
 <ol>
  <li> Name and mailing address as it appears on your passport</li>
  <li> The name of the conference you wish to attend (SIGCSE 2012)</li>
