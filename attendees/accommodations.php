@@ -7,7 +7,7 @@
 <div class="SectionHeader"><div class="Full">
 <h1>SIGCSE 2012 - Hotel Accommodations</h1>
 </div></div>
-<p>To help conference attendees begin their travel planning, we are happy to provide the following information about the hotel which will have blocks of rooms available at special conference rates. And, as SIGCSE has done in the past, we will have a roommate matching website to help pair you with a roommate to reduce the cost of attending the symposium.</p>
+<p>To help conference attendees begin their travel planning, we are happy to provide the following information about the hotels which will have blocks of rooms available at special conference rates. And, as SIGCSE has done in the past, we will have a roommate matching website to help pair you with a roommate to reduce the cost of attending the symposium.</p>
 <p><ul>
  <li><a href="#hotels">Hotels</a></li>
  <li><a href="#roommate">Roommate Matching</a></li>
@@ -31,14 +31,14 @@
 <p><b>Sheraton Raleigh Hotel Information</b><br/>
 <ul>
  <li><a href="http://www.starwoodmeeting.com/StarGroupsWeb/res?id=1102161656&key=EC8A">Online Reservations</a></li>
- <li>Reservations by phone: 1-800-325-3535, <em>group code is still pending</em>.</li>
+ <li>Reservations by phone: 1-800-325-3535, refer to the group by "SIGCSE", "SIGCSE 2012" or "The Association of Computing Machinery".</li>
  <li>$159/night, with free internet</li>
  <li>Parking for $12/day</li>
 </ul></p>
 
 <p><b>Clarion Raleigh Hotel State Capital</b><br/>
 <ul>
- <li>Reservations by phone only, <em>group code and phone number TBA</em></li>
+ <li>Reservations by phone only. Call the hotel directly at 1-919-832-0501 and ask for the ACM-SIGSCE group rate.</li>
  <li>$102/night, with free internet</li>
  <li>Free parking</li>
 </ul></p>
