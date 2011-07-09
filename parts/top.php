@@ -90,8 +90,8 @@ $abstractCharLimit = "800 characters";
 			<li><a id="attendeesKeynotes_menu" href="/sigcse2012/attendees/keynotes.php">Keynote Speakers</a></li>
 			<li><a id="attendeesRegistration_menu" href="/sigcse2012/attendees/registration.php">Registration</a></li>
 			<li><a id="attendeesFees_menu" href="/sigcse2012/attendees/fees.php">Symposium Fees</a></li>
-			<li><a id="attendeesAccommodations_menu" href="/sigcse2012/attendees/accommodations.php">Accommodations</a></li>
 			<li><a id="attendeesTravel_menu" href="/sigcse2012/attendees/travel.php">Travel Information</a></li>
+			<li><a id="attendeesAccommodations_menu" href="/sigcse2012/attendees/accommodations.php">Accommodations</a></li>
 			<li><a id="attendeesVisas_menu" href="/sigcse2012/attendees/visas.php">Visa Information</a></li>
 			<li><a id="attendeesFloorPlans_menu" href="/sigcse2012/attendees/floor_plans.php">Floor Plans</a></li>
 		  </ul>
