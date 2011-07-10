@@ -119,6 +119,11 @@ Wake Forest University<br/>
 <script>write_email("sigcse12-treasurer", "cs.holycross.edu");</script>
 </p>
 
+<p><b>Publicity / Social Networking</b><br/>
+Kimberly Voll<br/>
+The University of British Columbia<br/>
+<script>write_email("sigcse12-publicity", "cs.holycross.edu");</script></p>
+
 <p><b>Database Administrators</b><br/>
 Henry Walker <br/>
 Grinnell College <br/>
