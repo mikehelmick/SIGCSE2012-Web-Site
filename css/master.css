@@ -132,6 +132,18 @@ div.GoodMessage {
 	color: #000;
 }
 
+#printIcon {
+ float: right;
+ display: block;
+ margin-top: -10px;
+}
+
+#printIcon a {
+ padding: 5px;
+ text-decoration: none;
+}
+
+
 .Alert {
 	border: 2px solid #ff0000;
 	padding: 7px;
