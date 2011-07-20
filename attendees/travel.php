@@ -20,8 +20,7 @@
 <div class="SectionHeader"><div class="Full">
 <h2><a name="#ground">Ground Transportation</a></h2>
 </div></div>
-<p>Numerous shuttles and taxis travel from both the airport to downtown 
-Raleigh. <a href="http://www.supershuttle.com/">SuperShuttle</a> and <a href="http://www.ridewhitehorse.com/">White Horse Transportation</a> are two options you may wish to consider. Visit the <a href="http://www.rdu.com/groundtrans/groundtrans.htm">airport websites for additional ground transportation options</a>.</p>
+<p>Numerous shuttles and taxis travel from both the airport to downtown Raleigh. <a href="https://www.supershuttle.com/default.aspx?GC=S7RFM">SuperShuttle</a> (click for reservations with SIGCSE discount code automatically filled in) and <a href="http://www.ridewhitehorse.com/">White Horse Transportation</a> are two options you may wish to consider. Visit the airport websites for additional ground transportation options.</p>
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="#parking">Driving and Parking at the Raleigh Convention Center</a></h2>
