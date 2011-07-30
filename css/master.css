@@ -143,6 +143,14 @@ div.GoodMessage {
  text-decoration: none;
 }
 
+.social {
+	background: #eee;
+	position: relative;
+	top: 10px;
+	left: 10px;
+	padding: 20px;
+	width: 100px;
+}
 
 .Alert {
 	border: 2px solid #ff0000;

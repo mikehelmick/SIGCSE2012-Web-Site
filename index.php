@@ -11,6 +11,24 @@
 <h2>Call for participation</h2>
 <p><a href="/sigcse2012/authors/index.php">View the SIGCSE 2012 call for participation.</a></p>
 
+<div class="SectionHeader"><div class="Full">
+<h2>SIGCSE 2012 Supporters and Exhibitors</h2>
+</div></div> 
+
+<table width="100%">
+<tr>
+ <td align="center" valign="top" colspan="2"><h3>Platinum Supporters</h3></td>
+</tr>
+<tr>
+ <td align="center" valign="middle" colspan="1">
+  <a href="http://www.microsoft.com/education/highered/faculty/" alt="Microsoft Highered"><img src="/sigcse2012/images/logos/sponsors/microsoft.png" /></a>
+ </td>
+ <td align="center" valign="middle">
+  <a href="http://www.intel.com/education/" alt="Intel Education"><img src="/sigcse2012/images/logos/sponsors/intel.png" /></a>
+ </td>
+</tr>
+</table>
+
 <?php
  $updated = filemtime( $_SERVER["SCRIPT_FILENAME"] );
  $mainPage = true;
