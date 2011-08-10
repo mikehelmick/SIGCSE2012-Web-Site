@@ -25,7 +25,7 @@
  <li><a href="http://www.marriott.com/hotels/travel/rdumc?groupCode=acmacma&app=resvlink&fromDate=2/28/12&toDate=3/5/12">Online Reservations</a></li>
  <li>Reservations by phone: 1-800-228-9290.</li>
  <li>The group code for phone reservations is ACM; for online, it is ACMACMA. (The above link for online reservations will fill that in automatically.)</li>
- <li>$159/night, with free internet</li>
+ <li>$159/night, with free wireless internet</li>
  <li>Parking for $18/day</li>
 </ul></p>
 
@@ -33,14 +33,14 @@
 <ul>
  <li><a href="http://www.starwoodmeeting.com/StarGroupsWeb/res?id=1102161656&key=EC8A">Online Reservations</a></li>
  <li>Reservations by phone: 1-800-325-3535, refer to the group by "SIGCSE", "SIGCSE 2012" or "The Association of Computing Machinery".</li>
- <li>$159/night, with free internet</li>
+ <li>$159/night, with free wireless internet</li>
  <li>Parking for $12/day</li>
 </ul></p>
 
 <p><b>Clarion Raleigh Hotel State Capital</b><br/>
 <ul>
  <li>Reservations by phone only. Call the hotel directly at 1-919-832-0501 and ask for the ACM-SIGSCE group rate.</li>
- <li>$102/night, with free internet</li>
+ <li>$102/night, with free internet (wireless in the lobby and wired in the rooms)</li>
  <li>Free parking</li>
  <li>City shuttle bus stop is directly across the street from the hotel</li>
 </ul></p>
