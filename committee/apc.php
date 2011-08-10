@@ -22,6 +22,7 @@
 <tr><td valign="top" align="left"><p class="listing">Tim Bell<br/>University of Canterbury<br/><script>write_email("tim.bell", "canterbury.ac.nz");</script></p></td><td valign="top" align="left"><img src="/sigcse2012/images/photos/apc/Bell.jpg" /></td></tr>
 <tr><td valign="top" align="left"><p class="listing">Sami Rollins<br/>University of San Francisco<br/><script>write_email("srollins", "cs.usfca.edu");</script></p></td><td valign="top" align="left"><img src="/sigcse2012/images/photos/apc/Rollins.jpg" /></td></tr>
 <tr><td valign="top" align="left"><p class="listing">Sherri Goings<br/>Carleton College<br/><script>write_email("sgoings", "carleton.edu");</script></p></td><td valign="top" align="left"><img src="/sigcse2012/images/photos/apc/Goings.jpg" /></td></tr>
+<tr><td valign="top" align="left"><p class="listing">Mark Guzdial<br/>Georgia Institute of Technology<br/><script>write_email("guzdial", "cc.gatech.edu");</script></p></td><td valign="top" align="left"><img src="/sigcse2012/images/photos/apc/Guzdial.jpg" /></td></tr>
 
 </table>
 <?php
