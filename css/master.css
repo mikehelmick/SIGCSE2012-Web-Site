@@ -132,6 +132,10 @@ div.GoodMessage {
 	color: #000;
 }
 
+a img {
+	border: none;
+}
+
 #printIcon {
  float: right;
  display: block;
