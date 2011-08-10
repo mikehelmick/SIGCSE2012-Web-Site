@@ -17,7 +17,8 @@
 <h2><a name="hotels">Hotels</a></h2>
 </div></div>
 
-<p>There are three conference hotels. The Raleigh Marriott City Center Hotel is located directly across the street from the convention center, and is connected via an underground walkway. The Sheraton Raleigh Hotel is directly next to the Marriott, placing it less than one block away from the convention center. Finally, the Clarion Raleigh Hotel State Capital is a more economical option that is located 8 blocks from the convention center and is accessible by foot or by <a href="http://www.godowntownraleigh.com/get-around/r-line">free city shuttle</a>.
+<p>There are three conference hotels. The Raleigh Marriott City Center Hotel is located directly across the street from the convention center, and is connected via an underground walkway. The Sheraton Raleigh Hotel is directly next to the Marriott, placing it less than one block away from the convention center. 
+(The Sheraton is also accessible underground via a parking garage.) Finally, the Clarion Raleigh Hotel State Capital is a more economical option that is located 8 blocks from the convention center and is accessible by foot or by <a href="http://www.godowntownraleigh.com/get-around/r-line">free city shuttle</a>.
 
 <p><b>Raleigh Marriott City Center Information</b><br/>
 <ul>
@@ -41,6 +42,7 @@
  <li>Reservations by phone only. Call the hotel directly at 1-919-832-0501 and ask for the ACM-SIGSCE group rate.</li>
  <li>$102/night, with free internet</li>
  <li>Free parking</li>
+ <li>City shuttle bus stop is directly across the street from the hotel</li>
 </ul></p>
 
 <div class="SectionHeader"><div class="Full">
