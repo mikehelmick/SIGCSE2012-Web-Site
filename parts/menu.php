@@ -58,7 +58,7 @@
 <div class="menu"><a id="students_menu" onclick="toggle_menu('students');">Students<img id="students_status" src="/sigcse2012/images/arrow_down.png" align="absmiddle"></a></div>
 <div id="students_sub" class="submenu" style="<?php echo $menuStyle; ?>">
   <ul>
-	<li><a id="studentsGeneral_menu" href="/sigcse2012/students/">General Information</a></li>
+	<li><a id="student_research_menu" href="/sigcse2012/authors/student_research.php">Student Research Competition</a></li>
   </ul>
 </div>
 <div class="menu"><a id="exhibitors_menu" href="/sigcse2012/exhibitors/">Exhibitors/Supporters</a></div>
