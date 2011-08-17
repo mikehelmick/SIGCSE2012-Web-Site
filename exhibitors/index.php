@@ -70,7 +70,9 @@
 </div></div>
 
 <table><tr>
-<td valign="top" align="left"><ul>	
+<td valign="top" align="left"><ul>
+ <li>Turing's Craft - Student Volunteer T-shirts</li>
+ <li>UPE - Pizza Party for student volunteers</li>
 </ul></td>
 <td valign="top" align="left">
 	
