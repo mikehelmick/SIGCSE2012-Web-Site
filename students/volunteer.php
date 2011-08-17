@@ -1,6 +1,6 @@
 <?php
  $title = "SIGCSE 2012 - Students";
- $onload = "pageLoad('students', 'students_general');";
+ $onload = "pageLoad('students', 'students_volunteer');";
  include("../parts/top.php");
 ?>
 <div class="SectionHeader"><div class="Full">

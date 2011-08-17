@@ -60,7 +60,7 @@
   <ul>
 	<li><a id="students_general_menu" href="/sigcse2012/students/index.php">How can I get Involved?</a></li>
 	<li><a id="students_research_menu" href="/sigcse2012/authors/student_research.php">Student Research Competition</a></li>
-	<li><a id="student_volunteer_menu" href="/sigcse2012/students/volunteer.php">Student Volunteers</a></li>
+	<li><a id="students_volunteer_menu" href="/sigcse2012/students/volunteer.php">Student Volunteers</a></li>
   </ul>
 </div>
 <div class="menu"><a id="exhibitors_menu" href="/sigcse2012/exhibitors/">Exhibitors/Supporters</a></div>
