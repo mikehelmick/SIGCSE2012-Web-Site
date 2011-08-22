@@ -79,7 +79,7 @@
 	<li>Title of 'document' - use initial caps on keywords and end in period.</li>
 	<li>Name of Site in italics if given, and followed by period.</li>
 	<li>Date accessed - Use 'Retrieved' followed by date as Month, DD, YYYY followed by 'from'</li>
-	<li>Address - Given as '{http|ftp|telnet}://path' and underlined.</li>
+	<li>Address - Given as '{http|ftp|telnet}://path'.</li>
 	</ol>
 	</p>
 	<p>Note: a web address should never be given for a formally published document whose citation is complete or for which there is a DOI. Only give a web address for informal works or online-only works or resources that cannot otherwise be found by citation and/or DOI. Author Home page URLs or Institutional Repository URLs are not the way to cite formally published literature. If citing a formally published online-only publication, use the format for that genre and add elements 5 and 6 above.</p>
