@@ -11,8 +11,8 @@
 <p>We're glad you asked - students can get involved in several ways:
 <ul>
   <li><a href="/sigcse2012/authors/student_research.php">Student Research Competition</a></li>
-  <li>Of course, students can also become <a href="/sigcse2011/authors/">authors</a> or regular <a href="/sigcse2012/attendees/">conference attendees</a> (at a reduced registration rate).</li>
-  <li><a href="/sigcse2011/students/volunteer.php">Volunteer at SIGCSE</a></li>
+  <li>Of course, students can also become <a href="/sigcse2012/authors/">authors</a> or regular <a href="/sigcse2012/attendees/">conference attendees</a> (at a reduced registration rate).</li>
+  <li><a href="/sigcse2012/students/volunteer.php">Volunteer at SIGCSE</a></li>
 </ul>
 
 <p>Students at SIGCSE 2008</p>

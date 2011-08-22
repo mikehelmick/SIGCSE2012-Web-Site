@@ -8,12 +8,14 @@
 </div></div>
 <p>Student volunteers are an important part of the SIGCSE Symposium and have been for many years.  Each volunteer works for up to 6 hours, helping with various conference management activities.  You'll interact with the conference organizers and presenters and will meet other students from all over the world.  More information about the experience, the benefits, and how to sign up are provided below.</p>
 <!-- <p>Student Volunteer registration is now closed.  You may still attend the conference; register to attend on the SIGCSE 2012 registration page).  Any questions should be directed to Briana Morrison at <script>write_email( "sigcse11-volunteers", "cs.cmu.edu" );</script></p> -->
-<p>To volunteer you should register to attend the SIGCSE symposium (the registration options are detailed on our <a href="/sigcse2012/attendees/registration.php">SIGCSE 2012 registration page</a>) AND you should <a href="http://www.surveymonkey.com/s/688FTXR">sign up to be a student volunteer</a>.</p>
+
+<p>To volunteer you should register to attend the SIGCSE symposium (the registration options are detailed on our <a href="/sigcse2012/attendees/registration.php">SIGCSE 2012 registration page</a>) AND you should <em>sign up to be a student volunteer</em> (link coming several months before the conference).</p>
 
 <div class="SectionHeader"><div class="Full">
-<h2>What do I have to do to become a student volunteer?</h2>
-</div></div>  
-<p>Each student volunteer is asked to sign up as a volunteer prior to the conference.  (Instructions for signing up as a student volunteer are given below.) Upon arrival at the conference site, you must check in at the Registration Desk to receive your conference registration packet then visit the Student Volunteer Office to pick up your work schedule (with a list of times, locations, and duties).</p>
+<h2>How do I register to volunteer?</h2>
+</div></div>
+<p>To volunteer you should register to attend the SIGCSE symposium (the registration options are detailed on our SIGCSE 2011 registration page) AND you should sign up to be a student volunteer. Note you will need to pay the registration fee but it will be refunded once you complete your volunteer hours.</p>
+<p>Upon arrival at the conference site, you must check in at the Registration Desk to receive your conference registration packet then visit the Student Volunteer Office to pick up your work schedule (with a list of times, locations, and duties).</p>
 
 <div class="SectionHeader"><div class="Full">
 <h2>Who is eligible to be a student volunteer?</h2>
@@ -68,7 +70,7 @@ It varies. You might work at the registration booth to help organize the packets
 <div class="SectionHeader"><div class="Full">
 <h2>Do I have to be there for the whole conference to be a student volunteer?</h2>
 </div></div> 
-<p>No. We realize that travel plans and other commitments exist. We hope that students local to the Dallas area will be flexible.  In particular, there is always a need for volunteers on Tuesday and Wednesday, which is before most of the conference activities begin and before many of the traveling student volunteers have arrived. We encourage local student volunteers to be available on Tuesday and Wednesday.</p>
+<p>No. We realize that travel plans and other commitments exist. We hope that students local to the Raleigh area will be flexible.  In particular, there is always a need for volunteers on Tuesday and Wednesday, which is before most of the conference activities begin and before many of the traveling student volunteers have arrived. We encourage local student volunteers to be available on Tuesday and Wednesday.</p>
 
 <div class="SectionHeader"><div class="Full">
 <h2>Can I get funding for travel or hotel expenses?</h2>
