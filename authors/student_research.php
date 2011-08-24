@@ -28,7 +28,13 @@
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="what">What is the Student Research Competition?</a></h2>
-</div></div>  
+</div></div>
+<span class="imgRight" /> 
+<img alt="Microsoft Resarch Logo" src="/sigcse2011/images/logos/sponsors/ms_research.png" align="bottom" /><br/>
+<br/><em>The student research competition is<br/>
+supported by Microsoft Research</em>
+</span>
+
 <p>The <a href="http://www.acm.org/src/">ACM Student Research Competition</a> held at the 2012 SIGCSE conference will consist of two categories of competition, graduate and undergraduate, with prizes awarded based on judging during the conference. Research from all areas of computer science qualifies. Submissions must represent the work of a single student.  Students must be ACM student members to qualify for awards or travel grants.</p>
 <p>Judges will include professional computer scientists attending the conference activities.  Students' research will be evaluated on the quality and significance of the work, and the quality and clarity of both an oral and visual presentation.</p>
 <p>The first round of the competition evaluates the research during a poster presentation.  Those students who are selected by the judges to advance to the second round will continue in the competition by giving a formal, short, conference presentation of their research. The top three winners in the undergraduate and graduate categories as determined by the judges' evaluation of the conference presentations will receive the prizes of $500, $300, and $200, respectively.  These winners will advance to a final student research contest round where all ACM SIG conference contest winners are evaluated to determine one overall student research contest winner.  Only individual research may be submitted.</p>

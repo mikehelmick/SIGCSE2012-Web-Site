@@ -136,6 +136,14 @@ div.GoodMessage {
 	margin: 10px;
 }
 
+span.imgRight { 
+ float: right; 
+ margin: 15px;
+ padding: 10px;
+ border: 1px solid #000000;
+ background-color: #eeeeee;
+}
+
 a img {
 	border: none;
 }
