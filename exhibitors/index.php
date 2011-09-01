@@ -14,6 +14,7 @@
 
 <ul>
  <li>The <a href="/sigcse2012/exhibitors/downloads/sigcse_ep12.pdf" target="_blank">SIGCSE 2012 Invitation to Exhibit / Conference Support Opportunities</a> document (PDF; opens in new window) provides details on how your organization can connect with our community. </li> 
+ <li>View the <a href="/sigcse2012/exhibitors/downloads/sigcse_2012_floorplan.pdf" target="_blank">SIGCSE 2012 exhibit hall floor plan</a></li>
  <li>Here are two views of the SIGCSE 2008 Exhibit Hall. The 2012 conference is in a different location, but we hope that these views will give you a sense of what the 2012 exhibition space will look like. (Click on each for a larger version.)</li>
  <table border="0" align="center">
 <tr>
