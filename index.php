@@ -11,6 +11,9 @@
 <h2>Call for participation</h2>
 <p><a href="/sigcse2012/authors/index.php">View the SIGCSE 2012 call for participation.</a></p>
 
+<h2>Our Venue: The Raleigh Convention Center</h2>
+<p>The <a href="http://www.raleighconvention.com/about/facilities">Raleigh Convention Center</a> (500 South Salisbury Street, Raleigh, NC 27601) is a nearly brand new convention center located directly in downtown Raleigh, NC. A variety of restaurants and activities are within a short walking distance, and a <a href="http://www.godowntownraleigh.com/get-around/r-line">free city bus</a> allows for quick and easy further exploration.
+
 <div class="SectionHeader"><div class="Full">
 <h2>SIGCSE 2012 Supporters and Exhibitors</h2>
 </div></div> 
