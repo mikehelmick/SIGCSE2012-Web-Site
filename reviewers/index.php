@@ -94,7 +94,7 @@
   </li>
   <li>After reviewing, complete a report for each submission.  Submit Reviews using the
 <?php if ($submissionReady) {
- echo '<a href="http://www.cs.grinnell.edu/~sigcse/sigcse2012/reviewerViewing.asp">review submission form</a>';
+ echo '<a href="http://db.grinnell.edu/sigcse/sigcse2012/Reviewers/selectReviewForm.asp">review submission form</a>';
 } else {
  echo "<em>review submission form (coming soon)</em>";
 }
