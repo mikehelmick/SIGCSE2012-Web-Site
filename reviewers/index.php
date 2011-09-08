@@ -85,7 +85,7 @@
   </li>
   <li> Access your assigned submission(s) through the
 <?php if ($submissionReady) {
- echo '<a href="http://www.cs.grinnell.edu/~sigcse/sigcse2012/reviewerViewing.asp">submission viewing form</a>';
+ echo '<a href="http://db.grinnell.edu/sigcse/sigcse2012/reviewers/reviewerViewing.asp">submission viewing form</a>';
 } else {
  echo "<em>submission viewing form (coming soon)</em>";
 }
