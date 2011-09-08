@@ -92,9 +92,9 @@
 ?>. You may review the submission on-line or print it for review at your leisure.
   <p><strong class="note">If your browser does not open a submission automatically, try saving the file with a .pdf extension and opening it  with Adobe Reader (or another PDF file viewer).  See the <a href="/sigcse2012/faq/reviewers_faq.php">Reviewers FAQ section</a> for additional information.</strong></p>
   </li>
-  <li>After reviewing, complete a report for each submission.  Submit Reviews using the
+  <li>After reviewing, complete a report for each submission.  Submit Reviews by
 <?php if ($submissionReady) {
- echo '<a href="http://db.grinnell.edu/sigcse/sigcse2012/Reviewers/selectReviewForm.asp">review submission form</a>';
+ echo '<a href="http://db.grinnell.edu/sigcse/sigcse2012/reviewers/reviewerViewing.asp">logging into the online review site</a>';
 } else {
  echo "<em>review submission form (coming soon)</em>";
 }
