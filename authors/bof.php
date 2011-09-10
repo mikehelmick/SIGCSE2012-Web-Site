@@ -83,7 +83,7 @@
  <li>Convert your proposal into Adobe PDF format.  Refer to our <a href="creating_pdf.php">Creating Adobe PDF Documents</a> page for assistance.</li>
  <li> Submit the PDF version of your proposal using the
 <?php if ($submissionReady) {	
-  echo '<a href="://www.cs.grinnell.edu/~sigcse/sigcse2012/submission.shtml">Birds of a Feather online submission form</a>';
+  echo '<a href="http://www.cs.grinnell.edu/~sigcse/sigcse2012/submission.shtml">Birds of a Feather online submission form</a>';
 } else {
   echo "<em>Birds of a Feather online submission form (coming soon)</em>";
 } 
