@@ -14,7 +14,7 @@
 <div class="SectionHeader"><div class="Full">
 <h2>How do I register to volunteer?</h2>
 </div></div>
-<p>To volunteer you should register to attend the SIGCSE symposium (the registration options are detailed on our SIGCSE 2011 registration page) AND you should sign up to be a student volunteer. Note you will need to pay the registration fee but it will be refunded once you complete your volunteer hours.</p>
+<p>To volunteer you should register to attend the SIGCSE symposium (the registration options are detailed on our SIGCSE 2012 registration page) AND you should sign up to be a student volunteer. Note you will need to pay the registration fee but it will be refunded once you complete your volunteer hours.</p>
 <p>Upon arrival at the conference site, you must check in at the Registration Desk to receive your conference registration packet then visit the Student Volunteer Office to pick up your work schedule (with a list of times, locations, and duties).</p>
 
 <div class="SectionHeader"><div class="Full">
@@ -65,7 +65,7 @@ It varies. You might work at the registration booth to help organize the packets
 <div class="SectionHeader"><div class="Full">
 <h2>When during the conference will I do my student volunteer work?</h2>
 </div></div> 
-<p>This issue is driven by conference needs. Some time periods are busier than others. We'll take your preferences into account whenever possible. When you sign up as a student volunteer, you'll specify when you plan to arrive and leave the conference. Within those constraints, we'll make some initial plans. We realize that things may come up and will try to make dynamic changes as needed. In return, we ask that you be as flexible as possible. Your duties may be broken into separate time periods and even across separate days.  We guarantee no more than 6 hours of assigned work per volunteer but target an average of 5 hours.</p>
+<p>This issue is driven by conference needs. Some time periods are busier than others. We'll take your preferences into account whenever possible. When you sign up as a student volunteer, you'll specify when you plan to arrive and leave the conference. You will also have the opportunity to specify when you are presenting a paper or poster. Within those constraints, we'll make some initial plans. We realize that things may come up and will try to make dynamic changes as needed. In return, we ask that you be as flexible as possible. Your duties may be broken into separate time periods and even across separate days.  We guarantee no more than 6 hours of assigned work per volunteer but target an average of 5 hours.</p>
 
 <div class="SectionHeader"><div class="Full">
 <h2>Do I have to be there for the whole conference to be a student volunteer?</h2>
