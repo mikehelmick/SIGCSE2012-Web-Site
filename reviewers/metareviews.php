@@ -37,7 +37,7 @@ unacceptable review might:
 <ol>
   <li>In the rare case that a review clearly violated SIGCSE's review standards (as described above), the APC may recommend to the Program Chairs that the review be deleted.</li>
   <li>The APC summarizes the case for and against a paper depending on its reviews, abstract, and occasionally the paper itself. In cases where the reviews are clearly in agreement, only the case made by the reviewers (for or against) is summarized. In rare cases (e.g., when the reviews are deemed irreconcilably disparate or when too few reviewers claim familiarity with the area), the APC may read the paper fully and provide a "normal" review, in addition to the meta-review.</li>
-  <li>APCs are charged with making strong recommendations and therefore are encouraged to use the high (5,6) and low (1,2) ratings in most cases (as opposed to regular reviewers). APC reviews are NOT reviews of the paper, nor are their ratings intended to be averages; instead, they are reviews of the reviews to help the Program Chairs make decisions on the final program.</li>
+  <li>APCs are charged with making strong recommendations and therefore are encouraged to use the high (3) and low (1) ratings in most cases (as opposed to regular reviewers). APC reviews are NOT reviews of the paper, nor are their ratings intended to be averages; instead, they are reviews of the reviews to help the Program Chairs make decisions on the final program.</li>
 </ol>
 </p>
 
