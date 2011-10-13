@@ -27,13 +27,13 @@
         <td align="left" valign="top">Title/Author Modifications:</td><td align="left">Monday, October 31, 2011</td>
        </tr>
        <tr>
-  	    <td align="left">Final Version to SIGCSE DB:</td><td align="left">Monday, November 28, 2011</td>
+  	    <td align="left">Final Version to SIGCSE DB:</td><td align="left">Tuesday, December 6, 2011</td>
        </tr>
        <tr>
- 	    <td align="left">Final Version to Publisher:</td><td align="left">Monday, November 28, 2011</td>
+ 	    <td align="left">Final Version to Publisher:</td><td align="left">Tuesday, December 6, 2011</td>
        </tr>
        <tr>
-  	    <td align="left">Copyright/Permission Form Due:</td><td align="left">Monday, November 28, 2011</td>
+  	    <td align="left">Copyright/Permission Form Due:</td><td align="left">Tuesday, December 6, 2011</td>
        </tr>
       </table>
     </div>  
@@ -154,7 +154,7 @@ Poker-Edge.Com. 2006. Stats and Analysis. Retrieved June 7, 2006 from http://www
 
 <p>
             <strong style="color: #FF0000;">
-            Due by Monday, November 28, 2011
+            Due by Tuesday, December 6, 2011
             </strong>
             </p>
 
