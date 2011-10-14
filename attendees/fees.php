@@ -28,7 +28,8 @@
  <li>Early: $250 for SIGCSE members, $310 for non-members</li>
  <li>Late: $290 for SIGCSE members, $350 for non-members</li>
  <li>On-site: $330 for SIGCSE members, $390 for non-members</li>
- <li>K12 one-day (Friday): $70 for early, $110 for late or onsite</li>
+ <li>K12 one-day (Friday): $80 for early, $110 for late or onsite</li>
+ <li>K12 two-day (Friday/Saturday): $150 for early, $180 for late or onsite</li>
  <li>Students (at any time): $60 for ACM/SIGCSE members, $70 for non-members</li>
 </ul>
 
