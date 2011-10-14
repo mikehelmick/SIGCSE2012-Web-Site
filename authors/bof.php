@@ -32,7 +32,7 @@
   	    <td align="left">Acceptance Notification:</td><td align="left" nowrap="nowrap">November 14, 2011</td>
        </tr>
        <tr>
- 	    <td align="left">Updates to BOF Title, Proposer &amp; Abstract:</td><td align="left">November 28, 2011</td>
+ 	    <td align="left">Updates to BOF Title, Proposer &amp; Abstract:</td><td align="left">December 6, 2011</td>
        </tr>
       </table>
     </div>

@@ -27,7 +27,7 @@
        <tr><td align="right" valign="top" colspan="2">@11:59 p.m. HST - Hawaii-Aleutian Standard</td></tr>
        <tr><td align="left">Author Notification:</td><td align="left" nowrap="nowrap">October 17, 2011</td></tr>
        <tr><td align="left">Updates to Panel Title &amp; Presenters:</td><td align="left" nowrap="nowrap">Monday, October 31, 2011</td></tr>
-       <tr><td align="left">Camera-Ready Copy:</td><td align="left" nowrap="nowrap">November 28, 2011</td></tr>
+       <tr><td align="left">Camera-Ready Copy:</td><td align="left" nowrap="nowrap">December 6, 2011</td></tr>
       </table>
     </div>
   </td>              
