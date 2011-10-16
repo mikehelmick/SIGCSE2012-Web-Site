@@ -26,7 +26,7 @@
        <tr><td align="right" colspan="2">@11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td></tr>
        <tr><td align="left">Presenter Notification:</td><td align="left">October 17, 2011</td></tr>
        <tr><td align="left">Updates to Titles, Authors, &amp; Abstracts Due:</td><td align="left">October 31, 2011</td></tr>
-       <tr><td align="left">Software Distribution URLs (for Hands-On Labs) Due:</td><td align="left">TBD</td></tr>
+       <tr><td align="left">Software Distribution URLs (for Hands-On Labs) Due:</td><td align="left">January 30, 2012</td></tr>
       </table>
     </div>
   </td>              
