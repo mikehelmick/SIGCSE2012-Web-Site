@@ -30,6 +30,7 @@
   <ul>
 	<li><a id="attendeesGeneral_menu" href="/sigcse2012/attendees/">General Information</a></li>
 	<li><a id="attendeesKeynotes_menu" href="/sigcse2012/attendees/keynotes.php">Keynote Speakers</a></li>
+	<li><a id="attendeesWorkshops_menu" href="/sigcse2012/attendees/workshops.php">Workshop Schedule</a></li>
 	<li><a id="attendeesRegistration_menu" href="/sigcse2012/attendees/registration.php">Registration</a></li>
 	<li><a id="attendeesFees_menu" href="/sigcse2012/attendees/fees.php">Symposium Fees</a></li>
 	<li><a id="attendeesRaleigh_menu" href="/sigcse2012/attendees/raleigh.php">About Raleigh</a></li>
