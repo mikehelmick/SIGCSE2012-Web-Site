@@ -35,7 +35,7 @@
 
 <p>Regular conference registration includes: One copy of the symposium proceedings on CD; all paper sessions, panels, BOFs, and keynotes; the symposium reception ; the exhibition hall (and coffee breaks); and the Saturday luncheon.</p> 
 
-<p>The special one-day K12 rate includes access to all Friday technical sessions, the exhibition hall (and coffee breaks), and one copy of proceedings on CD.</p>
+<p>The special one-day K12 rate includes access to all Friday technical sessions, the exhibition hall (and coffee breaks), and one copy of proceedings on CD. The special two-day K12 rate includes access to all Friday and Saturday technical sessions, the exhibition hall (and coffee breaks), the Saturday luncheon, and one copy of proceedings on CD. Workshops are not included in these rates. These rates are available to K-12 teachers only.</p>
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="need">Other Activity/Event Fees</a></h2>
