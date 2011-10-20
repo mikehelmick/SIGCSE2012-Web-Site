@@ -17,6 +17,7 @@
     <li><a href="#presentation">Poster Presentation</a></li>
     <li><a href="#format">How Should The Proposal Be Formatted?</a></li>
     <li><a href="#submit">How Do I Submit My Proposal?</a></li>
+    <li><a href="/sigcse2012/faq/posters_faq.php">Frequently Asked Questions</a></li>
   </ul>
   </td>
   <td width="50%" align="center" valign="top">
@@ -109,6 +110,8 @@
 <div class="SectionHeader"><div class="Full">
 <h2><a name="presentation">Questions</a></h2>
 </div></div>   
+<a href="/sigcse2012/faq/posters_faq.php">Frequently Asked Questions</a><br/>
+
 <p>If you have questions about poster submissions, please contact SIGCSE 2012 poster chair:<br/>
 Kris Nagel<br/> Georgia Gwinnett College<br/> <script>write_email("sigcse12-posters", "cs.holycross.edu");</script></p>
 

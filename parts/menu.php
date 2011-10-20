@@ -6,7 +6,7 @@
 <div class="menu"><a id="home_menu" href="/sigcse2012/">SIGCSE | 2012</a></div>
 <div class="menu">
  <a href="http://sigcse2012.blogspot.com">Blog</a> |
- <a href="http://twitter.com/#!/sigcse2012">Twitter</a></div>
+ <a href="http://twitter.com/#!/sigcse2012">Twitter #sigcse</a></div>
 <div class="menu"><a id="authors_menu" onclick="toggle_menu('authors');">Authors<img id="authors_status" src="/sigcse2012/images/arrow_down.png" align="absmiddle"></a></div>	
 <div id="authors_sub" class="submenu" style="<?php echo $menuStyle; ?>">
   <ul>
@@ -74,6 +74,7 @@
 <div id="faq_sub" class="submenu" style="<?php echo $menuStyle; ?>">
   <ul>
    <li><a id="submissionsFAQ_menu" href="/sigcse2012/faq/submissions_faq.php">Submissions FAQ</a></li>
+   <li><a id="postersFAQ_menu" href="/sigcse2012/faq/posters_faq.php">Posters FAQ</a></li>
    <li><a id="reviewersFAQ_menu" href="/sigcse2012/faq/reviewers_faq.php">Reviewers FAQ</a></li>
    <li><a id="attendeesFAQ_menu" href="/sigcse2012/faq/attendees_faq.php">Attendees FAQ</a></li>
    <li><a id="studentsFAQ_menu" href="/sigcse2012/faq/students_faq.php">Students FAQ</a></li>
