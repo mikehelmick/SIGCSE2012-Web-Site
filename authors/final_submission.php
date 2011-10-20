@@ -14,6 +14,7 @@
   <h3>Contents:</h3>
   <ul>
     <li><a href="#verification">Database Information Verification</a></li>
+    <li><a href="#acm">ACM Author-Izer</a></li>
     <li><a href="#preparation">Preparation of Final Copy</a></li>
     <li><a href="#submission">Submission of Final Copy</a></li>
     <li><a href="#questions">Questions?</a></li>
@@ -57,6 +58,11 @@
  </ul>
 </li>
 </ul>
+
+<div class="SectionHeader"><div class="Full">
+<h2><a name="acm">ACM Author-Izer</a></h2>
+</div></div>
+<p>ACM is introducing the <a href="http://www.acm.org/publications/acm-author-izer-service">ACM Author-Izer</a>, a unique service that enables ACM authors to post links on either their own web page or institutional repository for visitors to download the definitive version of their articles from the ACM Digital Library at no charge.  ACM Author-Izer also allows the dynamic display of download and citation statistics for each “authorized” article on the author’s personal page. By linking the author’s personal bibliography with the ACM Digital Library, downloads from the author’s site are captured in official ACM statistics, more accurately reflecting total usage. ACM Author-Izer also expands ACM’s reputation as an innovative “Green Path” publisher.</p>
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="preparation">Preparation of Final Copy</a></h2>
