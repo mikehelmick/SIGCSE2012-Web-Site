@@ -3,13 +3,18 @@
  $onload = "pageLoad('students', 'students_volunteer');";
  include("../parts/top.php");
 ?>
+
+<div class="GoodMessage">
+<a href="https://www.surveymonkey.com/s/SIGCSE2012StudentVolunteers">Sign up to be a student volunteer at SIGCSE 2012!</a>
+</div>
+
 <div class="SectionHeader"><div class="Full">
 <h1>Student Volunteers @ SIGCSE 2012</h1>
 </div></div>
 <p>Student volunteers are an important part of the SIGCSE Symposium and have been for many years.  Each volunteer works for up to 6 hours, helping with various conference management activities.  You'll interact with the conference organizers and presenters and will meet other students from all over the world.  More information about the experience, the benefits, and how to sign up are provided below.</p>
 <!-- <p>Student Volunteer registration is now closed.  You may still attend the conference; register to attend on the SIGCSE 2012 registration page).  Any questions should be directed to Briana Morrison at <script>write_email( "sigcse11-volunteers", "cs.cmu.edu" );</script></p> -->
 
-<p>To volunteer you should register to attend the SIGCSE symposium (the registration options are detailed on our <a href="/sigcse2012/attendees/registration.php">SIGCSE 2012 registration page</a>) AND you should <em>sign up to be a student volunteer</em> (link coming several months before the conference).</p>
+<p>To volunteer you should register to attend the SIGCSE symposium (the registration options are detailed on our <a href="/sigcse2012/attendees/registration.php">SIGCSE 2012 registration page</a>) AND you should <em><a href="https://www.surveymonkey.com/s/SIGCSE2012StudentVolunteers">sign up here to volunteer</a></em></p>
 
 <div class="SectionHeader"><div class="Full">
 <h2>How do I register to volunteer?</h2>
