@@ -56,8 +56,28 @@
 <table><tr>
 <td valign="top" align="left">
  <ul>
-	<li>Intel Corporation</li>
-	<li>Microsoft</li>
+  <li>Auburn University - jGrasp</li>
+  <li>Broadening Participation in Computing</li>
+  <li>Course Technology Cengage Learning</li>
+  <li>CRC Press- Taylor & Francis Group LLC</li>
+  <li>Franklin, Beedle & Associates Incorporated</li>
+  <li>Intel Corporation</li>
+  <li>Intersystems Corporation</li>
+  <li>Jones and Bartlett</li>
+  <li>McGraw - Hill Higher Ed</li>
+ </ul>
+</td>
+<td valign="top" align="left">
+ <ul>
+  <li>Microsoft</li>
+  <li>Morgan Kaufmann</li>
+  <li>NSF</li>
+  <li>Pearson Higher Education</li>
+  <li>Research In Motion Limited</li>
+  <li>RidgeSoft</li>
+  <li>SAS Institute</li>
+  <li>The MIT Press</li>
+  <li>Wake Forest University Department of Computer Science</li>
  </ul>
 </td>
 <td valign="top" align="left">
