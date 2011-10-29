@@ -18,7 +18,7 @@
 <div class="SectionHeader"><div class="Full">
 <h2><a name="dining">Dining / local attractions</a></h2>
 </div></div>
-<p>Downtown Raleigh offers a variety of restaurants within walking distance of the convention center. See <a href="ttp://www.visitraleigh.com/pdf/hanging_around_downtown_map.pdf">this map for more info</a>.</p>
+<p>Downtown Raleigh offers a variety of restaurants within walking distance of the convention center. See <a href="http://www.visitraleigh.com/pdf/hanging_around_downtown_map.pdf">this map for more info</a>.</p>
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="rline">R-line</a></h2>
