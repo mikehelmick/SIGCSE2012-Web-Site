@@ -4,8 +4,9 @@
 ?>
 
 <div class="menu"><a id="home_menu" href="/sigcse2012/">SIGCSE | 2012</a></div>
-<div class="menu">
+<div class="menu"> 
  <a href="http://sigcse2012.blogspot.com">Blog</a> |
+ <a href="https://plus.google.com/b/105068073150868262530/">Google+</a> |
  <a href="http://twitter.com/#!/sigcse2012">Twitter #sigcse</a></div>
 <div class="menu"><a id="authors_menu" onclick="toggle_menu('authors');">Authors<img id="authors_status" src="/sigcse2012/images/arrow_down.png" align="absmiddle"></a></div>	
 <div id="authors_sub" class="submenu" style="<?php echo $menuStyle; ?>">
@@ -104,6 +105,9 @@ document.getElementById('q'),
 <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&lang=en"></script>
 
 <hr/>
+<div class="g-plus" data-href="https://plus.google.com/b/105068073150868262530/" data-size="smallbadge"></div>
+<hr/>
+
              <script src="http://widgets.twimg.com/j/2/widget.js" type="text/javascript"></script>
 <script type="text/javascript">
 new TWTR.Widget({
