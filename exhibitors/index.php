@@ -61,7 +61,7 @@
  <ul>
   <li>Auburn University - jGrasp</li>
   <li>Broadening Participation in Computing</li>
-  <li>Course Technology Cengage Learning</li>
+  <li>Cengage Learning</li>
   <li>CRC Press- Taylor & Francis Group LLC</li>
   <li>Franklin, Beedle & Associates Incorporated</li>
   <li>Intel Corporation</li>
