@@ -17,7 +17,7 @@ $abstractCharLimit = "800 characters";
  <script type="text/javascript" src="/sigcse2012/js/prototype.js"></script>	
  <script type="text/javascript" src="/sigcse2012/js/scriptaculous.js?load=effects,builder"></script> 
  <script type="text/javascript" src="/sigcse2012/js/lightbox.js"></script>
- <link href="https://plus.google.com/b/105068073150868262530/" rel="publisher" /><script type="text/javascript">
+ <link href="https://plus.google.com/105068073150868262530/" rel="publisher" /><script type="text/javascript">
 (function() 
 {var po = document.createElement("script");
 po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js";

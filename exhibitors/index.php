@@ -62,6 +62,7 @@
   <li>Auburn University - jGrasp</li>
   <li>Broadening Participation in Computing</li>
   <li>Cengage Learning</li>
+  <li>The College Board</li>
   <li>CRC Press- Taylor & Francis Group LLC</li>
   <li>Franklin, Beedle & Associates Incorporated</li>
   <li>Intel Corporation</li>
@@ -81,6 +82,7 @@
   <li>SAS Institute</li>
   <li>The MIT Press</li>
   <li>Wake Forest University Department of Computer Science</li>
+  <li>Wiley</li>
  </ul>
 </td>
 <td valign="top" align="left">
