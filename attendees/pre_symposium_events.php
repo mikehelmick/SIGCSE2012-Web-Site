@@ -1,5 +1,5 @@
 <?php
- $title = "SIGCSE 2012 - Floor Plans";
+ $title = "SIGCSE 2012 - Pre-Symposium Events";
  $onload = "pageLoad('attendees', 'attendeesPreSymposium');";
  include("../parts/top.php");
 ?>
