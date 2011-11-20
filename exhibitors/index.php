@@ -59,6 +59,7 @@
 <table><tr>
 <td valign="top" align="left">
  <ul>
+  <li>ACM SIGAda</li>
   <li>Auburn University - jGrasp</li>
   <li>Broadening Participation in Computing</li>
   <li>Cengage Learning</li>
@@ -74,13 +75,14 @@
 <td valign="top" align="left">
  <ul>
   <li>Microsoft</li>
+  <li>The MIT Press</li>
   <li>Morgan Kaufmann</li>
   <li>NSF</li>
   <li>Pearson Higher Education</li>
   <li>Research In Motion Limited</li>
   <li>RidgeSoft</li>
   <li>SAS Institute</li>
-  <li>The MIT Press</li>
+  <li>Turing's Craft, Inc.</li>
   <li>Wake Forest University Department of Computer Science</li>
   <li>Wiley</li>
  </ul>
