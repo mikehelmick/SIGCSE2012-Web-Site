@@ -4,6 +4,8 @@
  include("../parts/top.php");
 ?>
 <h1>SIGCSE 2012 Registration Gateway</h1>
+
+<div class="GoodMessage">Registration is open, register at <a href="http://www.regonline.com/sigcse2012">www.regonline.com/sigcse2012</a></div>
       
 <div class="SectionHeader"><div class="Full">
 <h2>Registration</h2>
@@ -19,7 +21,7 @@
 <h2>Online and Offline (Remote) Registration</h2>
 </div></div><br/>
 
-<div class="Alert">Pre-registration is not yet open.</div>
+<p><strong>Online registration is open at <a href="http://www.regonline.com/sigcse2012">www.regonline.com/sigcse2012</a></strong></p>
 
 <div class="SectionHeader"><div class="Full">
 <h2>On-Site Registration</h2>

@@ -7,6 +7,8 @@
 <h1>SIGCSE 2012 - Information for Attendees</h1>
 </div></div>
 
+<div class="GoodMessage"><a href="/sigcse2012/attendees/registration.php">SIGCSE 2012 registration is now open!</a></div>
+
 <div class="GoodMessage">Information for SIGCSE 2012 attendees is being collected and will be published when we have details. Check back often!</div>
 
 <table cellspacing="25px" width="99%">

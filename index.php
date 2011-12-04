@@ -3,6 +3,8 @@
  $onload = "pageLoad(null, 'home');";
  include("parts/top.php");
 ?>
+<div class="GoodMessage"><a href="/sigcse2012/attendees/registration.php">SIGCSE 2012 registration is now open!</a></div>
+
 <div class="SectionHeader"><div class="Full">
 <h2>Welcome to SIGCSE 2012!</h2>
 </div></div>
