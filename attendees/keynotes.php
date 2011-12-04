@@ -9,6 +9,7 @@
 
 <ul>
  <li><a href="#thursday">Frederick P. Brooks, Jr.</a> (Thursday, March 1, 2012)</li>
+ <li><a href="#friday">Hal Abelson</a> (Friday, March 2, 2012)</li>
  <li><a href="#saturday">Fernanda Viégas and Martin Wattenberg</a> (Saturday, March 3, 2012)</li>
 </ul>
 
@@ -31,9 +32,19 @@ UNC-Chapel Hill Kenan Professor Fred Brooks is a Chapel Hill native who grew up 
 <p>Dr. Brooks has received the National Medal of Technology, and the Turing Award of the ACM. He is a member of the National Academy of Sciences, the National Academy of Engineering, and a Foreign Member of the (British) Royal Academy of Engineering, which is more fun. A Christian, he chaired the Executive Committee for the Billy Graham Research Triangle Crusade in 1973.</p>
 
 <div class="SectionHeader" style="clear: left;"><div class="Full">
+<h2><a name="friday">Hal Ableson</a></h2>
+</div></div>
+<p>
+<img src="/sigcse2012/attendees/images/halAbelson.jpg" align="left" class="headshot" />
+<strong>Fernanda Viégas and Martin Wattenberg</strong><br/>
+Class of 1922. Professor of Electrical Engineering and Computer Science Massachusetts Institute of Technology</p>
+
+<p><strong>Winner of the 2012 SIGCSE Award for Outstanding Contribution to Computer Science Education</strong>
+</p>
+
+<div class="SectionHeader" style="clear: left;"><div class="Full">
 <h2><a name="saturday">Fernanda Viégas and Martin Wattenberg</a></h2>
 </div></div>
-
 <p>
 <img src="/sigcse2012/attendees/images/fm.jpg" align="left" class="headshot" />
 <strong>Fernanda Viégas and Martin Wattenberg</strong><br/>
