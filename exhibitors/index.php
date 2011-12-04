@@ -60,6 +60,8 @@
 <td valign="top" align="left">
  <ul>
   <li>ACM SIGAda</li>
+  <li>ACM-W</li>
+  <li>AlgoViz and Ensemble Projects</li>
   <li>Auburn University - jGrasp</li>
   <li>Broadening Participation in Computing</li>
   <li>Cengage Learning</li>
@@ -70,6 +72,7 @@
   <li>Intersystems Corporation</li>
   <li>Jones and Bartlett</li>
   <li>McGraw - Hill Higher Ed</li>
+  <li>Mercury Learning & Information</li>
  </ul>
 </td>
 <td valign="top" align="left">
@@ -82,6 +85,7 @@
   <li>Research In Motion Limited</li>
   <li>RidgeSoft</li>
   <li>SAS Institute</li>
+  <li>Springer</li>
   <li>Turing's Craft, Inc.</li>
   <li>Wake Forest University Department of Computer Science</li>
   <li>Wiley</li>
