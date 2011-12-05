@@ -23,6 +23,11 @@
 
 <p><strong>Online registration is open at <a href="http://www.regonline.com/sigcse2012">www.regonline.com/sigcse2012</a></strong></p>
 
+<p>Offline (register by mail) forms: <ul>
+ <li><a href="/sigcse2012/attendees/downloads/SIGCSE_2012_RegistrationForm.pdf">Registration form as Adobe PDF</a></li>
+ <li><a href="/sigcse2012/attendees/downloads/SIGCSE_2012_RegistrationForm.doc">Registration form as Microsoft Word (DOC) file</a></li>
+</ul></p>
+
 <div class="SectionHeader"><div class="Full">
 <h2>On-Site Registration</h2>
 </div></div><br/>
