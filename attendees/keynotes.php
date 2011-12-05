@@ -34,13 +34,19 @@ UNC-Chapel Hill Kenan Professor Fred Brooks is a Chapel Hill native who grew up 
 <div class="SectionHeader" style="clear: left;"><div class="Full">
 <h2><a name="friday">Hal Ableson</a></h2>
 </div></div>
-<p>
-<img src="/sigcse2012/attendees/images/halAbelson.jpg" align="left" class="headshot" />
+<p><img src="/sigcse2012/attendees/images/halAbelson.jpg" align="left" class="headshot" />
 <strong>Hal Ableson</strong><br/>
-Class of 1922 Professor of Electrical Engineering and Computer Science Massachusetts Institute of Technology</p>
-
-<p><strong>Winner of the 2012 SIGCSE Award for Outstanding Contribution to Computer Science Education</strong>
+Class of 1922 Professor of Electrical Engineering and Computer Science Massachusetts Institute of Technology<br/>
+<strong>Winner of the 2012 SIGCSE Award for Outstanding Contribution to Computer Science Education</strong>
 </p>
+
+<p><em>About Harold "Hal" Abelson</em>: Hal Abelson is a Professor of Computer Science and Engineering at MIT where he is co-director of the MIT Center for Mobile Learning at the Media Lab as well as the Decentralized Information Group at the MIT CS and AI Lab.  He also serves as co-chair of MIT’s Council on Educational Technology, which oversees MIT's strategic educational technology activities and investments. In this capacity, he played key roles in fostering MIT institutional educational technology initiatives such MIT OpenCourseWare and MIT DSpace.</p>
+
+<p>Abelson has been active in using computation as a conceptual framework in teaching since the 1970's when he directed the first implementation of the Logo computer language for the Apple II.   Together with MIT faculty colleague Gerald Sussman, Abelson developed MIT's introductory computer science subject, Structure and Interpretation of Computer Programs, which is organized around the notion that a computer language is primarily a formal medium for expressing ideas about methodology, rather than just a way to get a computer to perform operations. This work, through a popular computer science textbook by Abelson and Gerald and Julie Sussman, videos of their lectures, and the availability on personal computers of the Scheme dialect of Lisp, has had a world-wide impact on university computer-science education.</p>
+
+<p>Abelson has a broad interest in information technology and policy, and he developed and teaches the MIT course Ethics and Law on the Electronic Frontier. He co-authored the 2008 book Blown to Bits, which describes, in non-technical terms, the cultural and political disruptions caused by the information explosion.</p>
+
+<p>Abelson is a leader in the worldwide movement towards openness and democratization of culture and intellectual resources.  He is a founding director of the Free Software Foundation, Creative Commons, Public Knowledge, and he is a director of the Center for Democracy and Technology‚ all organizations that are devoted to strengthening the global intellectual commons.</p>
 
 <div class="SectionHeader" style="clear: left;"><div class="Full">
 <h2><a name="saturday">Fernanda Viégas and Martin Wattenberg</a></h2>
