@@ -36,7 +36,7 @@ UNC-Chapel Hill Kenan Professor Fred Brooks is a Chapel Hill native who grew up 
 </div></div>
 <p>
 <img src="/sigcse2012/attendees/images/halAbelson.jpg" align="left" class="headshot" />
-<strong>Fernanda Viégas and Martin Wattenberg</strong><br/>
+<strong>Hal Ableson</strong><br/>
 Class of 1922 Professor of Electrical Engineering and Computer Science Massachusetts Institute of Technology</p>
 
 <p><strong>Winner of the 2012 SIGCSE Award for Outstanding Contribution to Computer Science Education</strong>
