@@ -1,11 +1,11 @@
 <?php
- $title = "SIGCSE 2012 - Floor Plans";
+ $title = "SIGCSE 2012 - Kids' Camp";
  $onload = "pageLoad('attendees', 'attendeesKidsCamp');";
  include("../parts/top.php");
 ?>
 
 <div class="SectionHeader"><div class="Full">
-<h1>SIGCSE 2012 - Kids Camp</h1>
+<h1>SIGCSE 2012 - Kids' Camp</h1>
 </div></div>
 
 <p>We are pleased to announce that we will once again have Kids’ Camp at SIGCSE 2012!</p>
