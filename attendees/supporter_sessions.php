@@ -32,8 +32,8 @@ Margaret Johnson, Director of University Relations and Education, Google Inc.
 
 <p><strong>The MIT Center for Mobile Learning and the Future of App Inventor</strong><br/>
 Friday, March 2, 2012 – 1:45 – 3:00PM<br/>
-Hal Abelson Class of 1922 Professor of Computer Science and Engineering MIT<br/>
-Mark Friedman Former App Inventor Project Lead Google</p>
+Hal Abelson, Class of 1922 Professor of Computer Science and Engineering MIT<br/>
+Mark Friedman, Former App Inventor Project Lead Google</p>
 
 <p>The MIT Media Lab applies an unorthodox research approach to envision the impact of emerging technologies on everyday life—including technologies used in education.  Through a generous grant from Google, the Media Lab recently expanded on this work by establishing the MIT Center for Mobile Learning led by Hal Abelson, Mitch Resnick, and Eric Kopfler.  The Center’s work revolves around the principle that mobile technology can fulfill its potential to enhance education only if  teachers and learners can create new mobile technologies, not merely experience them as consumers.</p>
 <p>This session will discuss the Center’s three new initiatives:<ol>
