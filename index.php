@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr>
- <td align="center" valign="top" colspan="2"><h3>Platinum Supporters</h3></td>
+ <td align="center" valign="top" colspan="3"><h3>Platinum Supporters</h3></td>
 </tr>
 <tr>
  <td align="center" valign="middle" colspan="1">
@@ -33,6 +33,13 @@
  </td>
  <td align="center" valign="middle">
   <a href="http://software.intel.com/sites/academic_showcase/" alt="Intel Education"><img src="/sigcse2012/images/logos/sponsors/intel.png" /></a>
+ </td>
+</tr>
+<tr>
+ <td align="center" valign="top" colspan="3"><h3>Silver Supporters</h3></td>
+</tr>
+<tr>
+ <td align="center" valign="middle" colspan="3"><img src="/sigcse2012/images/logos/sponsors/sap.gif" />
  </td>
 </tr>
 </table>

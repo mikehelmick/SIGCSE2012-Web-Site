@@ -30,7 +30,7 @@
 
 <table width="100%">
 <tr>
- <td align="center" valign="top" colspan="2"><h3>Platinum Supporters</h3></td>
+ <td align="center" valign="top" colspan="3"><h3>Platinum Supporters</h3></td>
 </tr>
 <tr>
  <td align="center" valign="middle" colspan="1">
@@ -44,11 +44,11 @@
  </td>
 </tr>
 <tr>
- <td align="center" valign="top" colspan="5"><h3>Gold Supporters</h3></td>
+ <td align="center" valign="top" colspan="3"><h3>Silver Supporters</h3></td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+ <td align="center" valign="middle" colspan="3"><img src="/sigcse2012/images/logos/sponsors/sap.gif" />
+ </td>
 </tr>
 </table>
 
