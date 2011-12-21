@@ -71,6 +71,7 @@
   <li>Intel Corporation</li>
   <li>Intersystems Corporation</li>
   <li>Jones and Bartlett</li>
+  <li>Kent State University/School of Digital Sciences</li>
   <li>McGraw - Hill Higher Ed</li>
   <li>Mercury Learning & Information</li>
  </ul>
@@ -81,9 +82,11 @@
   <li>The MIT Press</li>
   <li>Morgan Kaufmann</li>
   <li>NSF</li>
+  <li>Oracle Corporation</li>
   <li>Pearson Higher Education</li>
   <li>Research In Motion Limited</li>
   <li>RidgeSoft</li>
+  <li>SAP University Alliances</li>
   <li>SAS Institute</li>
   <li>Springer</li>
   <li>Turing's Craft, Inc.</li>
