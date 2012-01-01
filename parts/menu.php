@@ -107,7 +107,7 @@ document.getElementById('q'),
 <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&lang=en"></script>
 
 <hr/>
-<g:plus href="https://plus.google.com/105068073150868262530/" size="smallbadge"></g:plus>
+<g:plus href="https://plus.google.com/105068073150868262530" size="badge"></g:plus>
 <hr/>
 
              <script src="http://widgets.twimg.com/j/2/widget.js" type="text/javascript"></script>
