@@ -80,6 +80,7 @@ More information at <a href="https://edocs.uis.edu/kmill2/www/sigcse2012computer
  <li>Cost:  $150</li>
 </ul>
 <p>CSAB, Inc., the lead ABET society for accreditation of degree programs in computer science, information systems, information technology, and software engineering, is offering this workshop for computing faculty and administrators interested in seeking accreditation or reaccreditation. Attendees will participate in a full day of hands-on accreditation training covering both general and program criteria with a special emphasis on the assessment process. The workshop will be led by experienced ABET team chairs, and the cost includes meals and materials.</p>
+<p>For more information, please contact <script>write_email("csab", "csab.org");</script>.</p>
 
 
 <?php
