@@ -12,11 +12,13 @@
  <li><strong>Thursday, March 1, 2012</strong><ul>
   <li><a href="#microsoft">10:45 am -12:00 pm - Microsoft</a></li>
   <li><a href="#microsoft">1:45 pm - 3:00 pm - Microsoft</a></li>
+  <li><a href="#intel">1:45 pm - 3:00 pm - Intel</a></li>
   <li><a href="#google">3:45 pm – 5:00 pm - Google</a></li>
  </ul></li>
  <li><strong>Friday, March 2, 2012</strong><ul>
+  <li><a href="#intel">10:45 am - 12:00 pm - Intel</a></li>
   <li><a href="#google">1:45 pm – 3:00 pm - Google</a></li>
-  <li><a href="#microsoft">3:45 pm -5:00 pm - Google</a></li>
+  <li><a href="#microsoft">3:45 pm -5:00 pm - Microsoft</a></li>
  </ul></li>
 </ul>
 
@@ -44,6 +46,12 @@ Mark Friedman, Former App Inventor Project Lead Google</p>
 <li>TaleBlazer, from the Center’s Scheller Teacher Education Program, is a location-based augmented reality mobile gaming platform, where people use blocks programming to create behaviors for characters in the game. </li>
 <li>App Inventor is a programming tool that makes it easy, even for beginners, to create applications for Android phones.  App Inventor was incubated at Google Research, and has been transferred to the Center, which is continuing its development as an open source system and providing it as an open service for educational use.</li>
 </ol></p>
+
+<div class="SectionHeader"><div class="Full">
+<h2><a name="intel">Intel</a></h2>
+</div></div>
+
+<p><em>Information about Intel's supporter sessions will be posted soon.</em></p>
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="microsoft">Microsoft</a></h2>
