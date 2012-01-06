@@ -37,7 +37,7 @@ most of us do this by assigning classwork that involves students in open source 
 <p>Tentative topics will include:  Mentoring, Teaching Strategies, Getting Started with Research / Finding Funding / Research with Undergraduates, Promotion and Tenure, Time Management, and Balancing Priorities (i.e., teaching vs. research vs. service).</p>
 <p><strong>Workshop participants must commit to attending the complete workshop on February 29 from 8am-5pm and are encouraged to attend all of the SIGCSE 2012 conference.</strong></p>
 <p>For more information about the workshop, contact Susan Rodger (<script>write_email( "rodger", "cs.duke.edu" );</script>) or Sheila Castaneda (<script>write_email("sheila.castaneda", "clarke.edu");</script>) or Dave Reed (<script>write_email("DaveReed", "creighton.edu");</script>).</p>
-<p><strong>The workshop is by invitation only after completing and submitting <a href="/downloads/mentoringapplication.pdf">this application<a/>.</strong></p>
+<p><strong>The workshop is by invitation only after completing and submitting <a href="/sigcse2012/attendees/downloads/mentoringapplication.pdf">this application<a/>.</strong></p>
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="sigcas">Open meeting of the Special Interest Group on Computers and Society (SIGCAS)</a></h2>
