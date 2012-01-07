@@ -31,7 +31,7 @@
 
 <p><b>Sheraton Raleigh Hotel Information</b><br/>
 <ul>
- <li><a href="http://www.starwoodmeeting.com/StarGroupsWeb/res?id=1102161656&key=EC8A">Online Reservations</a></li>
+ <li><a href="http://www.starwoodmeeting.com/StarGroupsWeb/res?id=1102161656&key=EC8A">Online Reservations</a> <strong>(double SPG points for attendees)</strong></li>
  <li>Reservations by phone: 1-800-325-3535, refer to the group by "SIGCSE", "SIGCSE 2012" or "The Association of Computing Machinery".</li>
  <li>$159/night, with free wireless internet</li>
  <li>Parking for $12/day</li>
