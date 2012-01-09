@@ -20,6 +20,14 @@
 <p>There are three conference hotels. The Raleigh Marriott City Center Hotel is located directly across the street from the convention center, and is connected via an underground walkway. The Sheraton Raleigh Hotel is directly next to the Marriott, placing it less than one block away from the convention center. 
 (The Sheraton is also accessible underground via a parking garage.) Finally, the Clarion Raleigh Hotel State Capital is a more economical option that is located 8 blocks from the convention center and is accessible by foot or by <a href="http://www.godowntownraleigh.com/get-around/r-line">free city shuttle</a>.
 
+<p><b>Sheraton Raleigh Hotel Information</b><br/>
+<ul>
+ <li><a href="http://www.starwoodmeeting.com/StarGroupsWeb/res?id=1102161656&key=EC8A">Online Reservations</a> <strong>(double SPG points for attendees)</strong></li>
+ <li>Reservations by phone: 1-800-325-3535, refer to the group by "SIGCSE", "SIGCSE 2012" or "The Association of Computing Machinery".</li>
+ <li>$159/night, with free wireless internet</li>
+ <li>Parking for $12/day</li>
+</ul></p>
+
 <p><b>Raleigh Marriott City Center Information</b><br/>
 <ul>
  <li><a href="http://www.marriott.com/hotels/travel/rdumc?groupCode=acmacma&app=resvlink&fromDate=2/28/12&toDate=3/5/12">Online Reservations</a></li>
@@ -27,14 +35,6 @@
  <li>The group code for phone reservations is ACM; for online, it is ACMACMA. (The above link for online reservations will fill that in automatically.)</li>
  <li>$159/night, with free wireless internet</li>
  <li>Parking for $18/day</li>
-</ul></p>
-
-<p><b>Sheraton Raleigh Hotel Information</b><br/>
-<ul>
- <li><a href="http://www.starwoodmeeting.com/StarGroupsWeb/res?id=1102161656&key=EC8A">Online Reservations</a> <strong>(double SPG points for attendees)</strong></li>
- <li>Reservations by phone: 1-800-325-3535, refer to the group by "SIGCSE", "SIGCSE 2012" or "The Association of Computing Machinery".</li>
- <li>$159/night, with free wireless internet</li>
- <li>Parking for $12/day</li>
 </ul></p>
 
 <p><b>Clarion Raleigh Hotel State Capital</b><br/>
