@@ -12,9 +12,11 @@
 
 <p><img src="/sigcse2011/images/logos/sponsors/microsoft.png" align="left"  class="headshot"/>A big ‘Thank You’ to Microsoft who is generously providing T-shirts for enrolled participants and equipment for the various planned activities.<br/>&nbsp;<br/>&nbsp;</p>
 
-<p>The SIGCSE 2012 Kids’ Camp will be located in Room 402 on the Ballroom Level (4th floor) of the Raleigh Convention Center.</p>
+<p>Kids Camp registration is now available! To register your child(ren) please visit <a href="https://www.kiddiecorp.com/acmkids.htm">kiddiecorp.com/acmkids.htm</a>. If you prefer, you may instead print, complete, and mail or fax the registration form, provided on the KiddieCorp site, using the contact information provided on the form.</p>
 
-<p>Registration will soon be available through KiddieCorp’s website. To learn more about KiddieCorp, our children's program provider, please visit <a href="https://www.kiddiecorp.com">https://www.kiddiecorp.com</a>.</p>
+<p>To learn more about KiddieCorp, our children's program provider, please visit <a href="https://www.kiddiecorp.com">kiddiecorp.com</a>.</p>
+
+<p>The SIGCSE 2012 Kids’ Camp will be located in Room 402 on the Ballroom Level (4th floor) of the Raleigh Convention Center.</p>
 
 <table width="90%" style="padding-left: 25px;">
  <tr><td width="50%" align="left" valign="top">
@@ -52,11 +54,12 @@ See the <a href="#fees">fees</a> section above.</p></li>
  <li><p><strong>Where will Kids Camp be located?</strong><br/>
 Kids Camp is conveniently located in Room 402 on the Ballroom Level (4th floor) of the Raleigh Convention Center, close to conference activities. Visiting your children will be easy, yet they are comfortably away from the main conference traffic. Restrooms are located nearby. You can see the room location on the <a href="/sigcse2012/attendees/floor_plans.php">SIGCSE 2012 floor plans</a>.</p></li>
  <li><p><strong>What will my child(ren) be doing while I am attending the conference?</strong><br/>
-SIGCSE Kid Campers will participate in drama, play, and arts & crafts activities. Older kids can participate in our planned computing activities (details will be provided soon). Student volunteers will help with the computing activities.</p></li>
- <li><p><strong>What will my children be served for lunch?</strong><br/>
-Lunch menu selections are still being planned. Last year's menu included entrees such as chicken fingers, grilled cheese, macaroni & cheese, and pizza (with 1 topping). Side dishes were celery & carrot sticks, fruit cup, and a selection of whole fruit (apple, banana, orange).</p></li>
+SIGCSE Kid Campers will participate in drama, play, and arts & crafts activities. Older kids can participate in our planned computing activities, which include game or story development using Kodu and Scratch, video editing with MovieMaker, and image editing with Paint.Net. Student volunteers will help with the computing activities. Microsoft is generously providing us with Xbox with Kinect and some popular games. We will also have the ever-popular scavenger hunt.</p></li>
+ <li><p><strong>What will my child(ren) do for lunch?</strong><br/>
+Lunch will be served at 11:30 am in a private dining room at the Posta Tuscan Grille in the Marriott hotel. The restaurant is easily accessible from the convention center through an underground walkway. Parents will select the day’s meal(s) for their child(ren) at drop-off time in the morning. The menu includes entrees such as chicken fingers, spaghetti and meatballs. The Kids Camp room in the convention center will be closed at lunchtime. All the children will be escorted over to the restaurant and closely supervised by the KiddieCorp staff. During this time parents may sign out their child(ren) from the restaurant if needed.</p></li>
  <li><p><strong>Do I need to bring anything for my child(ren)?</strong><br/>
-Yes. A change of clothes is strongly recommended for all children. In addition, parents of young children will need to provide any diapers, wipes, baby food, blankets, formula and bottles that may be needed.</p></li>
+Yes. A change of clothes is strongly recommended for all children. In addition, parents of young children will need to provide any diapers, wipes, baby food, blankets, formula and bottles that may be needed.
+If you have a digital camera that you would be comfortable leaving with your child, please bring it with you, along with the cable for transferring video / images to the PC.</p></li>
  <li><p><strong>How many childcare providers will be in the rooms?</strong><br/>
 Daycare provider ratios will be:
 <ul>
