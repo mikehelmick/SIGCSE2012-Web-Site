@@ -17,8 +17,7 @@
 <h2><a name="hotels">Hotels</a></h2>
 </div></div>
 
-<p>There are three conference hotels. The Raleigh Marriott City Center Hotel is located directly across the street from the convention center, and is connected via an underground walkway. The Sheraton Raleigh Hotel is directly next to the Marriott, placing it less than one block away from the convention center. 
-(The Sheraton is also accessible underground via a parking garage.) Finally, the Clarion Raleigh Hotel State Capital is a more economical option that is located 8 blocks from the convention center and is accessible by foot or by <a href="http://www.godowntownraleigh.com/get-around/r-line">free city shuttle</a>.
+<p>There are three conference hotels. The Sheraton Raleigh Hotel is located diagonally across the street from the convention center, and is accessible to it underground via a parking garage. The Clarion Raleigh Hotel State Capital is a nice yet more economical option that is located only 8 blocks from the convention center and is accessible by foot or by <a href="http://www.godowntownraleigh.com/get-around/r-line">free city shuttle</a>. Finally, the Raleigh Marriott City Center Hotel is available as well. Note that we have already filled our required minimum number of rooms at the Marriott, so please consider making a reservation at the Sheraton or the Clarion.
 
 <p><b>Sheraton Raleigh Hotel Information</b><br/>
 <ul>
@@ -28,6 +27,15 @@
  <li>Parking for $12/day</li>
 </ul></p>
 
+<p><b>Clarion Raleigh Hotel State Capital</b><br/>
+<ul>
+ <li>Reservations by phone only. Call the hotel directly at 1-919-832-0501 and ask for the ACM-SIGSCE group rate.</li>
+ <li>$102/night, with free internet (wireless in the lobby and wired in the rooms)</li>
+ <li>Free parking</li>
+ <li>City shuttle bus stop is directly across the street from the hotel</li>
+ <li>From the SIGCSE 2012 blog: <a href="http://sigcse2012.blogspot.com/2011/11/clarion-hotel-stay.html">Our Clarion hotel stay.</a></li>
+</ul></p>
+
 <p><b>Raleigh Marriott City Center Information</b><br/>
 <ul>
  <li><a href="http://www.marriott.com/hotels/travel/rdumc?groupCode=acmacma&app=resvlink&fromDate=2/28/12&toDate=3/5/12">Online Reservations</a></li>
@@ -35,14 +43,6 @@
  <li>The group code for phone reservations is ACM; for online, it is ACMACMA. (The above link for online reservations will fill that in automatically.)</li>
  <li>$159/night, with free wireless internet</li>
  <li>Parking for $18/day</li>
-</ul></p>
-
-<p><b>Clarion Raleigh Hotel State Capital</b><br/>
-<ul>
- <li>Reservations by phone only. Call the hotel directly at 1-919-832-0501 and ask for the ACM-SIGSCE group rate.</li>
- <li>$102/night, with free internet (wireless in the lobby and wired in the rooms)</li>
- <li>Free parking</li>
- <li>City shuttle bus stop is directly across the street from the hotel</li>
 </ul></p>
 
 <div class="SectionHeader"><div class="Full">
