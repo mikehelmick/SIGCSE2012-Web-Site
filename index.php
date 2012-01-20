@@ -39,7 +39,7 @@
  <td align="center" valign="top" colspan="3"><h3>Silver Supporters</h3></td>
 </tr>
 <tr>
- <td align="center" valign="middle" colspan="3"><img alt="SAP Logo" src="/sigcse2012/images/logos/sponsors/sap.gif" />
+ <td align="center" valign="middle" colspan="3"><img alt="SAP Logo" src="/sigcse2012/images/logos/sponsors/sap.png" />
  </td>
 </tr>
 <tr>
