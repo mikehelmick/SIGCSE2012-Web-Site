@@ -10,9 +10,9 @@
 
 <ul>
  <li><strong>Thursday, March 1, 2012</strong><ul>
+  <li><a href="#intel">10:45am - 12:00 pm - Intel</a></li>
   <li><a href="#microsoft">10:45 am -12:00 pm - Microsoft</a></li>
   <li><a href="#microsoft">1:45 pm - 3:00 pm - Microsoft</a></li>
-  <li><a href="#intel">1:45 pm - 3:00 pm - Intel</a></li>
   <li><a href="#google">3:45 pm – 5:00 pm - Google</a></li>
  </ul></li>
  <li><strong>Friday, March 2, 2012</strong><ul>
@@ -51,7 +51,14 @@ Mark Friedman, Former App Inventor Project Lead Google</p>
 <h2><a name="intel">Intel</a></h2>
 </div></div>
 
-<p><em>Information about Intel's supporter sessions will be posted soon.</em></p>
+<p><strong>Teaching Parallelism Lightning Rounds</strong><br/>
+Thursday March 1, 10:45 am - 12:00 pm<br/>
+</p>
+
+<p><strong>Title: To Be Announced</strong><br/>
+Friday March 2, 10:45 am - 12:00 pm<br/>
+</p>
+
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="microsoft">Microsoft</a></h2>
