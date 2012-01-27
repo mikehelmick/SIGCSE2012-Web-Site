@@ -117,6 +117,7 @@
  <li>Microsoft - Computers and T-shirts for SIGCSE Kids Camp</li>
  <li>Microsoft - Conference Bags</li>
  <li>Oracle - Ice Cream Break Supporter</li>
+ <li>Pearson - Lanyards</li>
  <li>Turing's Craft - Student Volunteer T-shirts</li>
  <li>UPE - Pizza Party for student volunteers</li>
 </ul></td>
