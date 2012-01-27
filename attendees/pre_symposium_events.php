@@ -46,6 +46,7 @@ or you can contact Mel Chua (<script>write_email("mel", "purdue.edu");</script> 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="sigcas">Open meeting of the Special Interest Group on Computers and Society (SIGCAS)</a></h2>
 </div></div>
+<div class="Alert">This event is full and can no longer accept new registrations.</div>
 <ul>
  <li><img src="/sigcse2012/images/clock.png" align="absmiddle" />Wednesday, February 29, 2012, 9:00am to noon.</li>
  <li>No Cost</li>
@@ -60,6 +61,7 @@ or you can contact Mel Chua (<script>write_email("mel", "purdue.edu");</script> 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="ethics">Teaching Ethics in Computer Science: active learning</a></h2>
 </div></div>
+<div class="Alert">This event is full and can no longer accept new registrations.</div>
 <ul>
  <li><img src="/sigcse2012/images/clock.png" align="absmiddle" />Wednesday, February 29, 2012, 12:30pm to 5:00pm</li>
  <li>No Cost</li>
