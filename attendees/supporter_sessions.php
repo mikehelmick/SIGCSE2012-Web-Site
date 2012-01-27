@@ -54,11 +54,49 @@ Mark Friedman, Former App Inventor Project Lead Google</p>
 <p><strong>Teaching Parallelism Lightning Rounds</strong><br/>
 Thursday March 1, 10:45 am - 12:00 pm<br/>
 </p>
+<p>The Teaching Parallelism Lightning Rounds special session is a place to meet and
+exchange ideas between those beginning the process of incorporating parallelism into
+their classrooms and curriculum and those already moving down that pathway. This
+session will build on the popular and exciting <a href="http://ignite.oreilly.com/">Ignite micro-presentations pioneered by O’Reilly</a>.</p>
+<p>The session will be in two parts: a set of short presentations (5 minutes and 5 slides
+each) highlighting recent experiences, followed by a community discussion and swap
+meet about other techniques, tweaks, and opportunities for including parallelism as
+part of the regular CS curriculum. Each presenter will answer the question "How have
+I brought parallelism into the computer science classroom?" as well as to provide
+examples of their content, techniques, tools etc.</p>
+<p>This session is sponsored by Intel and will be shepherded by the Educational Alliance for
+a Parallel Future (EAPF), the industry and academic members of which have participated
+in or run parallelism-focused BOFs and sessions at the past several SIGCSE conferences.</p>
+<p>Final presenters will be announced soon. If you would like to participate or learn
+more, please contact Professor Matthew Wolf <script>write_email("mwolf", "cc.gatech.edu");</script> or Paul Steinberg <script>write_email("paul.f.steinberg", "intel.com");</script>.</p>
 
-<p><strong>Title: To Be Announced</strong><br/>
+<p><strong>Intel Academic Assembly: What are the next imperatives?</strong><br/>
 Friday March 2, 10:45 am - 12:00 pm<br/>
 </p>
-
+<p>Speakers:<ul>
+<li>Lakshmi Talluru: Director, Technology Strategies</li>
+<li>Burke Walls: US Intern Program Manager</li>
+<li>Michael Wrinn: Academic Outreach</li>
+<li>Bob Chesebrough: Senior Course Architect</li>
+<li>Paul Steinberg: Academic Community Manager</li>
+</ul>
+<p>There are a number of important currents in computing that will need to be addressed
+by undergraduate computer science. These include mobility, power and performance,
+security and cloud computing. How will these trends and concepts be embraced by the
+curriculum, supported by your administration and comprehended by your students? How
+can Intel help in this?</p>
+<p>You are cordially invited to the Intel Academic Assembly to hear our view and offer your
+opinions and ideas. This will be your chance to meet members of the Intel Academic
+Team, learn about opportunities for engagement and propose new directions for
+collaboration.</p>
+<p>For the last five years, Intel has been at the forefront of ongoing efforts to integrate
+parallelism into undergraduate computer science education. We are now starting to
+see the fruits of these efforts. Here in the United States, a new ACM Curriculum
+recommendation is coming out with parallelism throughout; Research work from
+Berkeley, the University of Illinois and other institutions on design patterns and parallel
+models is now being widely disseminated; worldwide, many universities and colleges
+have parallelism in their core curriculum. We look forward to continuing our work
+collaborating on these and new areas of endeavor.</p>
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="microsoft">Microsoft</a></h2>
