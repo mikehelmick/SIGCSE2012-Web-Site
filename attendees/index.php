@@ -16,6 +16,7 @@
  <td valign="top" align="left">
    <ul>
 	<li><strong>New!</strong> <a href="http://db.grinnell.edu/sigcse/sigcse2012/Program/Program.asp" target="_blank">SIGCSE 2012 Symposium Program</a></li>
+	<li><strong>New!</strong> <a href="/sigcse2012/attendees/downloads/sigcse2012program.pdf">Download the program as a PDF file for offline viewing.</a></li>
 	<li><a href="/sigcse2012/attendees/keynotes.php">Keynote Speakers</a></li>
 	<li><a href="/sigcse2012/attendees/workshops.php">Workshop Schedule</a></li>
 	<li><a href="/sigcse2012/attendees/registration.php">Registration</a></li>
