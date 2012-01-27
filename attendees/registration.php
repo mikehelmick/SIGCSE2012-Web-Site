@@ -34,7 +34,7 @@
 
 <p>Onsite registration will be open the following times:
 <ul><li>Wed - 3:00 PM - 9:30 PM</li>
-<li>Thu - 7:30 AM - 4:00 PM</li>
+<li>Thu - 7:30 AM - 8:00 PM</li>
 <li>Fri - 7:30 AM - 5:00 PM</li>
 <li>Sat - 8:00 AM - 12:15 PM and 2:30 PM - 3:00 PM</li>
 </ul>
