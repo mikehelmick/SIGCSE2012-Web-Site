@@ -92,6 +92,7 @@
   <li>NSF</li>
   <li>Oracle Corporation</li>
   <li>Pearson Higher Education</li>
+  <li>Piazza</li>
   <li>Research In Motion Limited</li>
   <li>RidgeSoft</li>
   <li>SAP University Alliances</li>
