@@ -87,7 +87,7 @@
 <hr/>
 
 <?php
-$sponsors = array("google_search.php");
+$sponsors = array("google_search.php", "bing_search.php");
 shuffle($sponsors);
 foreach ($sponsors as $sponsor) {
   include($sponsor);
