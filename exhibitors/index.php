@@ -33,15 +33,9 @@
  <td align="center" valign="top" colspan="3"><h3>Platinum Supporters</h3></td>
 </tr>
 <tr>
- <td align="center" valign="middle" colspan="1">
-  <a href="http://www.microsoft.com/education/highered/faculty/" alt="Microsoft Highered"><img src="/sigcse2012/images/logos/sponsors/microsoft.png" /></a>
- </td>
- <td align="center" valign="middle" colspan="1">
-   <a href="http://www.google.com/edu/" alt="Google EDU"><img src="/sigcse2012/images/logos/sponsors/google.png" /></a>
- </td>
- <td align="center" valign="middle">
-  <a href="http://software.intel.com/sites/academic_showcase/" alt="Intel Education"><img src="/sigcse2012/images/logos/sponsors/intel.png" /></a>
- </td>
+<?php
+ include("../parts/platinum.php");
+?>
 </tr>
 <tr>
  <td align="center" valign="top" colspan="3"><h3>Silver Supporters</h3></td>

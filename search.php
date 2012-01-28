@@ -1,10 +1,10 @@
 <?php
- $title = "SIGCSE 2012 - Search Reults";
+ $title = "SIGCSE 2012 - Search Results";
  $onload = "pageLoad(null, null);";
  include("parts/top.php");
 ?>
 <div class="SectionHeader"><div class="Full">
-<h2>SIGCSE 2012 Search Results</h2>
+<h2>SIGCSE 2012 Search Results from Google</h2>
 </div></div>
 <div id="cse-search-results"></div>
 <script type="text/javascript">

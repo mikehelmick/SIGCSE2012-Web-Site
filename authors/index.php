@@ -1,5 +1,5 @@
 <?php
- $title = "SIGCSE 2012 - Home";
+ $title = "SIGCSE 2012 - Call For Participation";
  $onload = "pageLoad('authors', 'cfp');";
  include("../parts/top.php");
 ?>

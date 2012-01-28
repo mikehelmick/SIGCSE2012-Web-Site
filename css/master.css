@@ -453,3 +453,11 @@ blockquote {
 	margin-right: 5px;
 }
 
+.searchResult a:link a:active a:visited {
+	color: blue;
+}
+
+.searchUrl {
+	color: green;
+}
+
