@@ -21,6 +21,8 @@
 </div></div>
 <p>To volunteer you should register to attend the SIGCSE symposium (the registration options are detailed on our SIGCSE 2012 registration page) AND you should sign up to be a student volunteer. Note you will need to pay the registration fee but it will be refunded once you complete your volunteer hours.</p>
 <p>Upon arrival at the conference site, you must check in at the Registration Desk to receive your conference registration packet then visit the Student Volunteer Office to pick up your work schedule (with a list of times, locations, and duties).</p>
+<p><em>Registration Refund:</em>
+If the registration is paid in cash, then immediate refund in cash. If the registration is paid by credit card, then refund is processed anywhere from one day to one week after receipt of form. If the registration is paid by check, then the refund is by check through ACM which may take up to one month after the conference is over.</p>
 
 <div class="SectionHeader"><div class="Full">
 <h2>Who is eligible to be a student volunteer?</h2>
