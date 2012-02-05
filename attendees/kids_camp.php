@@ -38,7 +38,9 @@
 <li>Children 3 to 12 years:<ul>
  <li>Half day: $40 per child</li>
  <li>Full day: $76 per child</li>
-</ul></li></ul></p>
+</ul></li>
+<li><strong>There will be a  late fee of $5.00 for every 5 minutes a parent is late in picking up his/her child at the end of a session.</strong></li>
+</ul></p>
  </td></tr>
 </table>
 
