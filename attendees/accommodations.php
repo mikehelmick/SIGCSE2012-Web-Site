@@ -29,7 +29,7 @@
 
 <p><b>Clarion Raleigh Hotel State Capital</b><br/>
 <ul>
- <li>Reservations by phone only. Call the hotel directly at 1-919-832-0501 and ask for the ACM-SIGSCE group rate.</li>
+ <li>Reservations by phone only. Call the hotel directly at 1-919-832-0501 and ask for the ACM-SIGCSE group rate.</li>
  <li>$102/night, with free internet (wireless in the lobby and wired in the rooms)</li>
  <li>Free parking</li>
  <li>City shuttle bus stop is directly across the street from the hotel</li>
