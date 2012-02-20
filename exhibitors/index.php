@@ -91,6 +91,7 @@
   <li>Microsoft</li>
   <li>The MIT Press</li>
   <li>Morgan Kaufmann</li>
+  <li>Nazarbayev University</li>
   <li>NSF</li>
   <li>Oracle Corporation</li>
   <li>Pearson Higher Education</li>
