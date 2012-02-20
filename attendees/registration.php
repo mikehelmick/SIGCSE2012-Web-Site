@@ -5,7 +5,8 @@
 ?>
 <h1>SIGCSE 2012 Registration Gateway</h1>
 
-<div class="GoodMessage">Registration is open, register at <a href="http://www.regonline.com/sigcse2012">www.regonline.com/sigcse2012</a></div>
+<div class="GoodMessage">Registration is open, register at <a href="http://www.regonline.com/sigcse2012">www.regonline.com/sigcse2012</a><br/>
+<strong>The last day to register online will be Wednesday, February, 22, 2012.</strong></div>
       
 <div class="SectionHeader"><div class="Full">
 <h2>Registration</h2>
@@ -21,7 +22,8 @@
 <h2>Online and Offline (Remote) Registration</h2>
 </div></div><br/>
 
-<p><strong>Online registration is open at <a href="http://www.regonline.com/sigcse2012">www.regonline.com/sigcse2012</a></strong></p>
+<p><strong>Online registration is open at <a href="http://www.regonline.com/sigcse2012">www.regonline.com/sigcse2012</a></strong><br/>
+** <strong>The last day to register online will be Wednesday, February, 22, 2012.</strong> **</p>
 
 <p>Offline (register by mail) forms: <ul>
  <li><a href="/sigcse2012/attendees/downloads/SIGCSE_2012_RegistrationForm.pdf">Registration form as Adobe PDF</a></li>
