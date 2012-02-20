@@ -13,7 +13,7 @@
  <li><a href="#sigcas">Open meeting of the Special Interest Group on Computers and Society (SIGCAS)</a></li>
  <li><a href="#ethics">Teaching Ethics in Computer Science: active learning</a></li>
  <li><a href="#accreditation">Computing Accreditation Workshop</a></li>
- <li><a href="#alice2">Programming with Alice Workshop (Alice 2.2)</a></li>
+ <li><a href="#alice2"><del>Programming with Alice Workshop (Alice 2.2)</del></a> - CANCELED</li>
  <li><a href="#alice3">Programming with Alice Workshop (Alice 3)</a></li>
 </ul></p>
 
@@ -89,13 +89,10 @@ More information at <a href="https://edocs.uis.edu/kmill2/www/sigcse2012computer
 <p>For more information, please contact <script>write_email("csab", "csab.org");</script>.</p>
 
 <div class="SectionHeader"><div class="Full">
-<h2><a name="alice2">Programming with Alice Workshop (Alice 2.2)</a></h2>
+<h2><a name="alice2"><del>Programming with Alice Workshop (Alice 2.2)</del></a></h2>
 </div></div>
-<ul>
- <li><img src="/sigcse2012/images/clock.png" align="absmiddle" />Wednesday, February 29, 2012, 9:00am - 5:00pm.</li>
- <li>Cost:  $25</li>
-</ul>
-<p>This workshop is intended for teachers who have little or no experience in teaching with Alice. The workshop will provide hands-on experience with learning to use Alice 2.2 and in learning to teach with Alice. Alice 2.2 is a powerful program visualization environment where students are engaged in building virtual worlds to create animations and simple games. Instructional materials, software, and a complimentary copy of the 3rd edition of the text, Learning to Program with Alice, will be provided to each participant.  Bring your own laptop (PC or Mac) and a mouse. Alice 2.2 does not work well on most netbooks.</p>
+<div class="Alert">This event has been canceled.</div>
+<p><del>This workshop is intended for teachers who have little or no experience in teaching with Alice. The workshop will provide hands-on experience with learning to use Alice 2.2 and in learning to teach with Alice. Alice 2.2 is a powerful program visualization environment where students are engaged in building virtual worlds to create animations and simple games. Instructional materials, software, and a complimentary copy of the 3rd edition of the text, Learning to Program with Alice, will be provided to each participant.  Bring your own laptop (PC or Mac) and a mouse. Alice 2.2 does not work well on most netbooks.</del></p>
 <p>For more information, contact: Wanda Dann, Carnegie-Mellon University,
 <script>write_email("wpdann", "andrew.cmu.edu")</script></p>
 
@@ -106,7 +103,7 @@ More information at <a href="https://edocs.uis.edu/kmill2/www/sigcse2012computer
  <li><img src="/sigcse2012/images/clock.png" align="absmiddle" />Wednesday, February 29, 2012, 9:00am - 5:00pm.</li>
  <li>Cost:  $25</li>
 </ul>
-<p>This workshop is designed for instructors of CS1/AP who are interested in providing a gentle introduction to programming concepts in Alice 3 integral with mediating the transfer of these concepts into Java. The workshop will introduce Alice 3 and a plugin for transitioning from Alice to Java. Alice 3 builds on Alice 2's powerful program visualization technique, enabling students to "see" objects and work with object-oriented programming. Participants will learn how to use Alice 3 to build virtual worlds and how to use this approach in CS1 courses (introductory programming for majors and non-majors and AP CS). Bring your own laptop (PC or Mac) and a mouse. . Alice 2.2 does not work well on most netbooks.</p>
+<p>This workshop is designed for instructors of CS1/AP who are interested in providing a gentle introduction to programming concepts in Alice 3 integral with mediating the transfer of these concepts into Java. The workshop will introduce Alice 3 and a plugin for transitioning from Alice to Java. Alice 3 builds on Alice 2's powerful program visualization technique, enabling students to "see" objects and work with object-oriented programming. Participants will learn how to use Alice 3 to build virtual worlds and how to use this approach in CS1 courses (introductory programming for majors and non-majors and AP CS). Bring your own laptop (PC or Mac) and a mouse. Alice 3 does not work well on most netbooks.</p>
 <p>For more information, contact: Wanda Dann, Carnegie-Mellon University, <script>write_email("wpdann", "andrew.cmu.edu")</script></p>
 
 
