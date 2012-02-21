@@ -56,8 +56,9 @@
  <td align="center" valign="top" colspan="2"><h3>Additional Support Provided By:</h3></td>
 </tr>
 <tr>
- <td align="center" valign="middle" colspan="2"><img alt="Oracle Logo" src="/sigcse2012/images/logos/sponsors/oracle.png" />
- </td>
+<?php
+ include("../parts/additional.php");
+?>
 </tr>
 </table>
 
