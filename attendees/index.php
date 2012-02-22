@@ -19,6 +19,7 @@
 	<li><strong>New!</strong> <a href="/sigcse2012/attendees/downloads/sigcse2012program.pdf">Download the program as a PDF file for offline viewing.</a></li>
 	<li><a href="/sigcse2012/attendees/keynotes.php">Keynote Speakers</a></li>
 	<li><a href="/sigcse2012/attendees/workshops.php">Workshop Schedule</a></li>
+	<li><a href="http://experience-it.org/">Experience-It: Robot Circus</a></li>
 	<li><a href="/sigcse2012/attendees/registration.php">Registration</a></li>
 	<li><a href="/sigcse2012/attendees/fees.php">Symposium Fees</a></li>
 	<li><a href="/sigcse2012/attendees/raleigh.php">About Raleigh</a></li>
