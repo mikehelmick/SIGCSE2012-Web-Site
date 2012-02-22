@@ -7,7 +7,8 @@
 <div class="menu"> 
  <a href="http://sigcse2012.blogspot.com">Blog</a> |
  <a href="https://plus.google.com/b/105068073150868262530/">Google+</a> |
- <a href="http://twitter.com/#!/sigcse2012">Twitter #sigcse</a></div>
+ <a href="http://twitter.com/#!/sigcse2012">Twitter #sigcse</a><br/>
+ Share your pics: <a href="http://www.flickr.com/groups/sigcse2012/">Flickr</a></div>
 <div class="menu"><a id="authors_menu" onclick="toggle_menu('authors');">Authors<img id="authors_status" src="/sigcse2012/images/arrow_down.png" align="absmiddle"></a></div>	
 <div id="authors_sub" class="submenu" style="<?php echo $menuStyle; ?>">
   <ul>
