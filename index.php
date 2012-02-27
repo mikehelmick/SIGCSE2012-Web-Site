@@ -4,10 +4,11 @@
  include("parts/top.php");
 ?>
 
-<!-- Reserved for announcements during the conference.
-<div class="GoodMessage"
+<div class="GoodMessage">
+<ul>
+ <li>Pre-registration is now closed. You may still register on site at SIGCSE 2012.</li>
+</ul>
 </div>
--->
 
 <div class="SectionHeader"><div class="Full">
 <h2>Welcome to SIGCSE 2012!</h2>
