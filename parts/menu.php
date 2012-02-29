@@ -34,6 +34,7 @@
 <div id="attendees_sub" class="submenu" style="<?php echo $menuStyle; ?>">
   <ul>
 	<li><a id="attendeesGeneral_menu" href="/sigcse2012/attendees/">General Information / Program</a></li>
+	<li><a id="attendeesNews_menu" href="/sigcse2012/attendees/news.php">Breaking News</a></li>
 	<li><a id="attendeesKeynotes_menu" href="/sigcse2012/attendees/keynotes.php">Keynote Speakers</a></li>
 	<li><a id="attendeesSupporterSessions_menu" href="/sigcse2012/attendees/supporter_sessions.php">Supporter Sessions</a></li>
 	<li><a id="attendeesWorkshops_menu" href="/sigcse2012/attendees/workshops.php">Workshop Schedule</a></li>

@@ -4,6 +4,8 @@
  include("parts/top.php");
 ?>
 
+<div class="Alert"><strong>BREAKING NEWS:</strong> <a href="/sigcse2012/attendees/news.php">Entrance, Street, and parking closures during SIGCSE</a>.</div>
+
 <div class="GoodMessage">
 <ul>
  <li>Pre-registration is now closed. You may still register on site at SIGCSE 2012.</li>
