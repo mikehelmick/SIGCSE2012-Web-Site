@@ -8,6 +8,7 @@
 
 <div class="GoodMessage">
 <ul>
+ <li><a href="http://db.grinnell.edu/sigcse/sigcse2012/Program/programAtAGlance.asp?dateRequested=Thursday">Program for Thursday, March 1st, 2012</a></li>
  <li><a href="http://www.streamtext.net/text.aspx?event=SIGCSE">Closed captioning for plenary sessions</a> Thursday 8:30am - 10:00am, Friday 8:30am - 10:00am, and Saturday 12:30pm - 2:30pm</li>
 </ul>
 </div>
