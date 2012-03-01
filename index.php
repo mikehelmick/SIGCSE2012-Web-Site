@@ -8,7 +8,7 @@
 
 <div class="GoodMessage">
 <ul>
- <li>Pre-registration is now closed. You may still register on site at SIGCSE 2012.</li>
+ <li><a href="http://www.streamtext.net/text.aspx?event=SIGCSE">Closed captioning for plenary sessions</a> Thursday 8:30am - 10:00am, Friday 8:30am - 10:00am, and Saturday 12:30pm - 2:30pm</li>
 </ul>
 </div>
 
