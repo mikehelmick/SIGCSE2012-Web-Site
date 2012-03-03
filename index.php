@@ -10,6 +10,7 @@
  <li><a href="http://db.grinnell.edu/sigcse/sigcse2012/Program/programAtAGlance.asp?dateRequested=Saturday">Program for Saturday, March 3rd, 2012</a></li>
  <li><a href="http://www.streamtext.net/text.aspx?event=SIGCSE">Closed captioning for plenary sessions</a> Thursday 8:30am - 10:00am, Friday 8:30am - 10:00am, and Saturday 12:30pm - 2:30pm</li>
  <li>Teaching as design: <a href="/sigcse2012/downloads/brooks_TeachingAsDesign.pptx">Slides from Fred Brooks' keynote.</a> (<a href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.sigcse.org%2Fsigcse2012%2Fdownloads%2Fbrooks_TeachingAsDesign.pptx">View in Google Docs</a>)</li>
+ <li><a href="/sigcse2012/downloads/ha_sigcseTalk.pdf">Slides from Hal Abelson's talk</a> - <a href="/sigcse2012/downloads/ha_transcript.txt">Rough transcript of Hal's talk</a></li>
 </ul>
 </div>
 
