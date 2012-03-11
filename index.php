@@ -3,17 +3,12 @@
  $onload = "pageLoad(null, 'home');";
  include("parts/top.php");
 ?>
-
 <div class="GoodMessage">
-Thanks for attending SIGCSE 2012. We'll see you next year in Denver!
-</div>
-
-<div class="GoodMessage">
+<p><strong>Thanks for attending SIGCSE 2012. We'll see you next year in Denver!</strong>
 <ul>
- <li><strong><a href="/sigcse2012/attendees/evaluations.php">Please take a few minutes to fill out a symposium evaluation</a></strong></li>	
  <li>Teaching as design: <a href="/sigcse2012/downloads/brooks_TeachingAsDesign.pptx">Slides from Fred Brooks' keynote.</a> (<a href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.sigcse.org%2Fsigcse2012%2Fdownloads%2Fbrooks_TeachingAsDesign.pptx">View in Google Docs</a>)</li>
  <li><a href="/sigcse2012/downloads/ha_sigcseTalk.pdf">Slides from Hal Abelson's talk</a> - <a href="/sigcse2012/downloads/ha_transcript.txt">Rough transcript of Hal's talk</a></li>
-</ul>
+</ul></p>
 </div>
 
 <div class="SectionHeader"><div class="Full">
